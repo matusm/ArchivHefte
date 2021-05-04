@@ -1,1 +1,606 @@
-Archiv-Hefte Ältere SerieZuletzt geändert am 03.05.2021****************************************#HEFT= [M.1]#INHA= Bestimmung des aboluten Werthes und der Dilatation der fünf Meter: H, m_3, s_3, M_4 und St auf Grund der Beobachtungen in Heft [M.9] ä.S. Notizen über den Stab "J" des k.k. geogrf. Institutes.#JAHR= 1876#SPEZ= L#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.2]#INHA= ?#JAHR= ?#SPEZ= L#BEME= Die Existenz dieses Heftes ist lediglich aus der Signatur erschlossen.#STAT= fehlt!#ORGA= NEK****************************************#HEFT= [M.3]#INHA= Vergleichungen der Halb-Toise "A" mit der Halb-Toise "B" und des Glasmeters "G_6" mit dem Glasmeter "G_II".#JAHR= 1876#SPEZ= L#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.4]#INHA= Vergleichung des halben Meters "A_1/2" von Messing mit dem Meter "M_4".#JAHR= 1877#SPEZ= L#BEME= Heft enthält ein Blatt.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.5]#INHA= Vergleichungen des Messingmeters "J" des k.k. geografischen Institutes und des Kontrol-Normales n°1 mit den Meterstäben M_4 und H.#JAHR= 1876#SPEZ= L#BEME= Heft enthält ein Blatt.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.6]#INHA= Untersuchun der Gebrauchs-Normal-Meter.#JAHR= 1873 - 1876#SPEZ= L#BEME= Neben umfangreichen Protokollen von Vergleichungen befindet sich im Heft auch eine Notiz über den Einfluss der Biegung auf die gemessene Länge.#BEME= Einige Längenwertewerte sind in Pariser Linien angegeben. Hinweis auf "Starkes Originalteilung".#BEME= Bemerkenswerterweise wurden keine Temperaturen gemessen.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.7]#INHA= Vergleichungen der Meterstäbe M_2, M_3, M_4, m_i, C^m_s, R, S und (PM) mit G_II und untereinander.#INHA= Vergleichungen der halben Klafter (s'_m) mit der halben Klafter E. #INHA= Bestimmung der Theilungs-Fehler der Meter M_4. (PM), St und R.#JAHR= 1872 - 1874#SPEZ= L#BEME= Heterogenes Konvolut. Mit St wird der "Messingmeter des Herrn Starke" bezeichnet. Teilweise wird die Temperatur berücksichtigt.#BEME= Mit roter Schrift finden sich Bearbeitungen von Marek aus 1888.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.8]#INHA= Einige Manuscripte zur Untersuchung der Meterstäbe G_II, M_4, N_m, N_s H und J.#JAHR= 1873 - 1876#SPEZ= L#BEME= Ausführliche Beschreibung der reduzierten Ergebnisse und der untersuchten Meterstäbe. Mit Verweis auf andere Arbeiten. Paraphe von Marek aus 1888.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.9]#INHA= Vergleichung der Meter St, M_4, H, m_3 us s_3 mit dem Glasprototipe G_II und untereinander. Journal und unmittelbare Reduktion.#JAHR= 1876#SPEZ= L#BEME= Beiblatt mit Verweis auf [M.11], [BQ] und [M.1]. [BQ] ist ein Archiv-Heft der neuen Serie und behandelt die in der NEK gebräuchlichen Temperaturskalen.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.10]#INHA= Constanten des Universal-Comparators der k.k. tech. Hochschule. Stampfer's Original.#JAHR= ?#SPEZ= L#BEME= Der Inhalt besteht aus 6 herausgetrennten Buch-Blättern (Seiten 179 bis 190). Zahlreiche Korrekturzeichen über falsche Buchstaben und auch über falsche Zahlenwerte.#BEME= Aus: "Jahrbücher des kaiserl. königl. polytechnischen Institutes in Wien. Band 18, 1834"#BEME= Beschreibung zweier am k.k. polytechnischen Institute befindlichen Komparatoren (Maßvergleicher) und Untersuchung ihrer Genauigkeit. S. Stampfer.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.11]#INHA= Formeln und Constanten zur unmittelbaren Reduktion der am Universal-Comparator der k.k. tech. Hochschule gemachten Längen-Vergleichungen.#JAHR= 1872 ?#SPEZ= L#BEME= Eine Art Gebrauchsanweisung des Komparators. Vorgangsweise des Vergleichs zweier Maße aus unterschiedlichen Materialien. Im Heft ein Vermerk aus 1888.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.1]#INHA= 1. Erste Vergleichung der Thermometer Greiner n° 1, 2, 3, 4 mit den Normal-Thermometer. 2. Erste Vergleichung der Thermometer Kappeller n° 5, 6, 7, u. 8 mit dem Normal-Thermometer. 3. Diverse Eispunkt-Bestimmungen.#JAHR= 1872#SPEZ= T#BEME= Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung ist aber sichtbar.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.12]#INHA= Bestimmung der Länge und Ausdehnung der Stäbe "a" und "H". Originalzahlen zu den "Travaux et Memoires du Bureau internationales des Poids at Mesures, Tom III pag. C30 et suiv."#JAHR= 1883#SPEZ= L#BEME= 15 Seiten mit Beobachtuungsdaten und Auswertungen. Auf der ersten Seite eine Skizze der Lage der beiden Stäbe und der verwendeten Thermometer.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.13]#INHA= Beiträge zur Theorie der Längenvergleichungen nach der Methode von Fizeau.#JAHR= 1872 - 1876#SPEZ= L#BEME= Umfangreiche mathematische Ableitungen, anscheinend über die Bestimmung der Endmaßlänge mittels Mikroskop (Schattenmethode).#BEME= Notizen auf der Rückseite einer Einladung der "Commission Internationale due Metre. Conservatoire des Arts & Metiers aus 1872"#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.14]#INHA= Vergleichung der Stäbe H, N_m und N_s mit dem Glasmeter G_II und untereinander.#JAHR= 1875 - 1876#SPEZ= L#BEME= Im Heft ein späterer Verweis auf [M.11], [BQ] und [M.8]. Im Übrigen lediglich direkte Beobachtungsresultate mit minimaler Beschreibung.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [M.15]#INHA= Vergleichungen der Meterstäbe a_1 - a_10 mit dem Meter M_4.#JAHR= 1875#SPEZ= L#BEME= Im Heft ein Blatt mit den Beobachtungen sowie eine in roter Tinte geschriebene Bemerkung aus 1888. Dort auch Verweise auf [M.9], [M.7], [M.1] und [M] (?). #BEME= Statt wie im Titel a_1 bis a_10 ist in der Bemerkung von A_1 bis A_10 die Rede. #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.2]#INHA= Zweite Vergleichung der Thermometer Greiner n° 1, 2, 3 u. 4 mit dem Normal-Thermometer.  Eispunkt-Bestimmungen und Tafel IV für diese Thermometer.#JAHR= 1874#SPEZ= T#BEME= Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung am ersten Blatt.#BEME= Im Heft ein Diagramm der Abweichungen (?), das karierte Kanzleipapier ist wie ein Millimeterpapier verwendet.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.3]#INHA= Dritte Vergleichung der Thermometer Greiner n° 1, 2 mit dem Normal-Thermometer. Zweite Vergleichung der Thermometer Kappeller n° 7, 8 mit dem Normal-Thermometer.#JAHR= 1874#SPEZ= T#BEME= Eine mit roter Tinte später (1885) hinzugefügte Bemerkung mit Verweis auf [T.6] und [BQ]. Im Heft ein Diagramm der Abweichungen welches zur graphischen Interpolation verwendet wurde.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.4]#INHA= Fünfte Vergleichung der Thermometer Greiner n° 1, 2 u. 3, mit dem Normal-Thermometer bei Temperaturen ober 0; Erste Vergleichung derselben mit dem Normal-Thermometer bei Temperaturen unter 0, und Bestimmung der Theilungsfehler ihrer Scalen für die Striche unter 0.#JAHR= 1876#SPEZ= T#BEME= Am Titelblatt der Hinweis: "NB. die vierte Vergleichung ist im Hefte [7] ä. S. enthalten."#BEME= Gezeichnet von Marek. Beide Thermometer vertikal und ganz eingetaucht. Angaben in °C und in °R. Hinweis auf ein "Meridianzimmer" (?).#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.5]#INHA= Untersuchungen der Thermometer Kappeller n° 1021, 1022, 1023, 1025, 1026, 1028, 1029. Bemerkungen über das Thermometer Geissler. Diverse Corrections-Tafeln. Diverse Notizen.#JAHR= 1874 - 1876#SPEZ= T#BEME= Schönes Beobachtungsjournal von Marek. Eispunktbestimmungen wurden mit Schnee durchgeführt (19. und 20. Dezember 1874). Im Heft auch ein Hinweis auf Rumler.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.6]#INHA= Herleitung der neuen Tafel für die Thermometer Greiner, für die verticale Lage.#JAHR= 1877#SPEZ= T#BEME= Das Heft beginnt mit 4 Seiten "Theorie der Greiner Thermometer". Zusammenstellung der ersten, zweiten, dritten und fünften Vergleichungen.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.7]#INHA= Tafeln für die Greiner Thermometer I für die verticale Lage.#JAHR= 1877#SPEZ= T#BEME= Von Marek. Verweis auf [T.6] und [BQ]. Eispunkte der drei Thermometer ab 1872 bis 1881.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.8]#INHA= Tafeln für die Greiner Thermometer II für die horizontale Lage.#JAHR= 1877#SPEZ= T#BEME= Von Marek. Verweis auf [T.6] und [BQ]. Während in [T.7] ausführliche Tabellen der Abweichungen angeführt sind, wird hier ein Korrekturglied für die geänderte Lage mitgeteilt. Die Abweichung beträgt maximal 0,033 °C. Nach der Beschreibung werden die Thermometer in horizontaler Lage ausschließlich in Luft verwendet.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.9]#INHA= Normal-Thermometer Herleitung neuer Tafeln.#JAHR= 1876 - 1877#SPEZ= T#BEME= Umfangreiche theoretische Ableitungen, mit einigen Zeichnungen. Anmerkungen in roter Tinte aus 1885.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.10]#INHA= Tafeln für das Normal-Thermometer.#JAHR= 1877#SPEZ= T#BEME= Ausführliche Beschreibung der Anwendung der verschiedenen Korrekturen. Die Tafel selbst reicht von -15 °R bis +20 °R. Der Eispunkt wurde im Zeitraum 1865 bis 1880 angegeben.#BEME= Anmerkungen in roter Tinte aus 1885.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [T.11]#INHA= Correktions-Tafel des Thermometers Greiner n° 1.#JAHR= 1874 - 1876#SPEZ= T#BEME= Im Heft Dokumentation der Entwiklung der Tafel. #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [TA.I]#INHA= Untersuchung der Thermometer n° 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23 von L.J. Kappeller welche an die Aichämter der Landeshauptstädte abgegeben werden sollen.#JAHR= 1874#SPEZ= T#BEME= Das Heft enthält eine große Zahl an Korrektionstafeln.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [A.II]#INHA= Bestimmung des specifischen Gewichtes weingeistiger Mischungen von 5-40 % w. Stärke für die Temperaturen von 0 bis -10 °R.#JAHR= 1875 - 1876#SPEZ= A#BEME= Sehr ausführliche Arbeit mit der Herleitung des Messverfahrens.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [A.III]#INHA= Etalonierung der Gebrauchs-Normal-Spindeln 1a bis 21a und 1b bis 19b.#BEIL= I. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 1 bis 8. Sindel b n° 1 bis 8.#BEIL= II. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 9 bis 14. Sindel b n° 9 bis 13.#BEIL= III. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 15 bis 21. Sindel b n° 9 bis 19.#JAHR= 1874 - 1877#SPEZ= A#BEME= Hauptheft gibt Übersicht und Tabellen der Korrektionen der genannten Spindeln. Verweis in roter Tinte auf Heft [BG]#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [1]#INHA= Volums-Bestimmung der Gewichts-Stücke A500 und A200#JAHR= 1872#SPEZ= W#BEME= Zusammenstellung der verwendeten Waagen. Viele Bemerkungen in roter Tinte aus 1887, 1889, 1891#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [2]#INHA= Reduktion der Wägungen deren Journal das Heft [3] bildet#JAHR= 1872 - 1873#SPEZ= W#BEME= Im Text Verweis auf Heft [10]. Viele Bemerkungen in roter Tinte aus 1887 mit Verweisen auf die Hefte [A.I], [14], [13], [A.10], [1], [5], [20].#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [3]#INHA= Journal diverser in dem Zeitraume 1872, October 22 bis 1873, October 18 ausgeführten Wägungen.#JAHR= 1872 - 1873#SPEZ= W#BEME= Ausführliche tabellarische Auflistung.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [4]#INHA= Standcorrection des Barometers: Lenoir n° 829 und einiger anderer.#INHA= Bildet die Beilage I zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1872#SPEZ= B#BEME= Bei den anderen Barometern handelt es sich um Kappeller n° 811, Fortin der k.k. tech. Hochschule und Normalbarometer der k.k. tech. Hochschule. Hinweis auf Prof. H. P. Pierre.#BEME= Mit einer Bemerkung aus 1889 von Marek(?).#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [5]#INHA= Bestimmung des Volumens der Gewichtsstücke a_100, a_100., a_50 und a_20 .#INHA= Bildet die Beilage II zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1872#SPEZ= W#BEME= Zwei vervielfältigte Formulare zu Hydrostatischen Wägungen.#BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [6]#INHA= Neue Reduktion einiger Volums-Bestimmung aus Heft [1] ä.S.#INHA= Bildet die Beilage III zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1875#SPEZ= W#BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [7]#INHA= Untersuchungen der Thermometer Greiner n° 1, 2, 3. #INHA= Bildet die Beilage IV zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1874#SPEZ= T#BEME= Zwei Teile: A. Bestimmung der Theilungsfehler und B. Vergleichung mit dem Normal-Thermometer.#BEME= Mit Bemerkungen in roter Tinte aus 1885 von Marek(?).#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [8]#INHA= Bestimmung der Volumina der Gewichtsstücke der Einsätze B und C.#INHA= Bildet die Beilage V zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1875#SPEZ= W#BEME= Autor (Bearbeiter) des Heftes ist Marek. Die Auswertungsformeln sin logarithmisch angegeben.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [9]#INHA= Tafeln.#INHA= Bildet die Beilage VI zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1875#SPEZ= WT#BEME= Tafeln für die Skalenwerte der Waagen. Konstanten des Steinheilschen Einsatzes (Massen und Volumina). Tafeln des Luftgewichtes. Logarithmen-Tafeln für einige Korrekturen. Die Tafeln der Greiner-Thermometer wurde entfernt.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [10'']#INHA= Diverse Bestimmungen von Scalenwerthen und anderen Constanten der Wagen der k.k. Normal-Aichungs-Commission. #INHA= (Vergleiche Heft [10] u. [10'] ä.S.)#JAHR= 1875 - 1882#SPEZ= W#BEME= Sehr umfangreiches Heft. Enthält eine Abhandlung zur Theorie der Waage von Marek. Man findet auch eine Aufstellung der damals verwendeten Waagen.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [10']#INHA= Diverse Bestimmungen von Scalen-Werthen der Waagen der k.k. Normal-Aichungs-Commission.#INHA= vergleiche Heft [10] ä.S.#JAHR= 1875 - 1877#SPEZ= W#BEME= Eine Sammlung unkommentierter Schmier-Zettel.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [10]#INHA= Skalenwerth der Wagen. Theorie, Beobachtungen und Constanten.#INHA= Bildet die Beilage VII zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1872 - 1875#SPEZ= W#BEME= Enthält wie [10''] eine Abhandlung zur Theorie der Waage. Es scheint sich um eine Vorversion zu handeln.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [11]#INHA= Erste Vergleichung der Einsätze B und C und Zweite Vergleichung des Einsatzes A mit dem Steinheil'schen Einsatze nebst Vergleichungen der Einsätze A, B und C untereinander. (Vor der Volums-Bestimmung der Einsätze B und C)#INHA= Bildet die Beilage VIII zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1874 - 1875#SPEZ= W#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [12]#INHA= Etalonierung der Gewichts-Einsätze B und C. Nach der Bestimmung der Volumina der einzelnen Gewichtsstücke.#INHA= Bildet die Beilage IX zur Untersuchung [U] ä.S. Heft [13] ä.S.#JAHR= 1875#SPEZ= W#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [13]#INHA= Etalonierung der Gewichts-Einsätze A, B und C.#JAHR= 1874 - 1875 #SPEZ= W#BEME= Auf dieses Heft wird unter anderen in den Heften [4] [5] [6] [7] [8] [9] verwiesen.#BEME= Wird auch unter der Signatur U geführt.#BEME= Autor ist Marek#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [14]#INHA= Etalonierung des Gewichts-Einsatzes "A" von 1 K bis 10 K.#JAHR= 1875#SPEZ= W#BEME= Es wurden drei Waagen verwendet (Steinheilsche, Kusche und Kleine Örtlingsche).#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [15]#INHA= Eine neue Bestimmung des Werthes des Gewichts-Stückes "5_1" aus dem Steinheil'schen Bergkristal-Einsatze.#JAHR= 1875#SPEZ= W#BEME= Es handelt sich um ein 500 g Gewichtsstück. Die Kalibrierung nach dem Substitutionsprinzip ist ausführlich beschrieben.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [16]#INHA= Untersuchung eines Gewichts-Einsatzes für den deutschen Gewichtsfabrikanten Herrn "Westphal".#JAHR= 1875#SPEZ= W#BEME= 10 Gewichtsstücke von 1 g bis 500 g. Verweis auf die Hefte [10] und [13] der älteren Serie.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [17]#INHA= Zur Justierung der eisernen Kontrol-Normale von 1 kg bis 10 kg, mit Nachträgen.#JAHR= 1875 - 1889#SPEZ= W#BEME= Verweis auf Hefte [2], [13] und [14] der älteren Serie.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [18]#INHA= Etalonierung der Gewichts-Einsätze A und D von 1 K. aufwärts.#JAHR= 1876#SPEZ= W#BEME= Gewichtsstücke zu 1 kg, 2 kg, 5 kg und 10 kg. Verweis auf die Hefte [T.5] und [14] der älteren Serie.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [19]#INHA= Etalonierung der Gewichts-Einsätze A und D von 1 K. aufwärts. Bestimmung des Werthes der Stücke A_500, B_500 und C_500.#JAHR= 1877#SPEZ= W#BEME= Verweis auf Hefte [T.5], [T.7], [13] und [18] der älteren Serie.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [20]#INHA= Übersicht der Bestimmungen der Haupt-Gewichts-Einsätze der k.k. Normal-Aichungs-Com. welche in dem Zeitraume von 1872 - 1876 ausgeführt worden sind.#JAHR= 1872 - 1877#SPEZ= W#BEME= Zahlreiche Verweise auf Hefte der älteren Serie.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [21]#INHA= Etalonierung des Gewichts-Einsatzes "R" von 1 mg bis 500 mg.#JAHR= 1877#SPEZ= W#BEME= 15 Gewichtsstücke aus Platin und einen anderen (unleserlichen) Material. Zwei Zeichnungen der Ausführung. Zahlreiche Verweise auf Hefte der älteren Serie. Ein Hinweis auf Steinheil.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [22]#INHA= Versuch einer Bestimmung des Scalenwerthes einer Wage aus der Schwingungsdauer derselben, bei verschiedener Belastung.#JAHR= 1875#SPEZ= W#BEME= Mit einer Zeichnung und mathematischen Ableitungen. Mit einer Bemerkung aus 1889.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [23]#INHA= Mineralöl-Aräometer für Zoll-Aemter.#BEIL= 1#BEIL= 2#BEIL= 3#BEIL= 4#BEIL= 5#BEIL= 6#BEIL= 7 Beilage zu den steographische Protokollen des Abgeordnetenhauses sowie Bemerkungen zur Mineralöl-Besteuerung.#BEIL= 8 Anweisung zum Gebrauche des Aräometers und der zugehörigen Reduktionstabelle zur Bestimmung der Dichte der Mineralöle#JAHR= 1877 - 1891#SPEZ= C#BEME= Verweise auf Akten-Zahlen.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [24]#INHA= #JAHR= 1877#SPEZ= R#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [25]#INHA= #JAHR= 1882#SPEZ= C#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [26]#INHA= #JAHR= 1875#SPEZ= L#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [27]#INHA= #JAHR= 1882#SPEZ= L#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [28]#INHA= #JAHR= 1867 - 1872#SPEZ= L#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [29]#INHA= #JAHR= 1874 - 1978#SPEZ= L#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [30]#INHA= Zur Herstellung der ersten Alkoholometer-Skalennetze auf Grundlage von [AV]. (Vergleiche auch [AW]).#JAHR= 1874#SPEZ= A#BEME= Grundlagen für Volle Skalen, Skalen von 0 - 72 % und Skalen von 60 % - 100 %.#BEME= Im Heft auch drei Skalennetze auf starken Karton gezeichnet.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [31]#INHA= Tafeln der Dichte des Wassers. #JAHR= 1878 - 1888#SPEZ= D#BEME= Berechnete Tafeln aus einer Volums-Formel für den Bereich 4 °C bis 27 °C.#BEME= Aus einem Polynom 3-ten Grades wurde der Kehrwert als Polynom 6-ten Grades berechnet.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [32]#INHA= Untersuchung der für die österreichische Nord-Polar-Station "Jan Mayen" bestimmten ud der hierämtlichen Aräometer Kapp. no 5, 6, 7 und 8 (Jnv.Nr. 851, 852, 853 und 854)#JAHR= 1882#SPEZ= C#BEME= Umfangreiche Messungen und Korrektur-Kurven für den Dichten-Bereich 1,000 bis 1,031. Wohl zur Dichtebestimmung von Meerwasser gedacht.#BEME= Auf Anregung Carl Weyprechts und finanziert von Hans Graf Wilczek wurde auf der Insel Jan Mayen während des Ersten Internationalen Polarjahrs 1882/83 eine österreichisch-ungarische Forschungsstation eingerichtet. Dort wurden unter der Leitung von Emil von Wohlgemuth dreizehn Monate lang meteorologische, magnetische und astronomische Beobachtungen angestellt.#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [33]#INHA= Überprüfung der an die k.k. Aichämter abgegebenen Saccharometer-Scalen-Netze.#JAHR= 1875 - 1876#SPEZ= S#BEME= #STAT= im Archiv#ORGA= NEK****************************************#HEFT= [34]#INHA= Dimensionen der Aich-Kolben.#JAHR= 1874 - 1884#SPEZ= N#BEME= Im Archiv ein Entlehnzettel: "Bei D.Ing. Friebes! 9.12.1952"#BEME= Titel und Jahr wurde aus dem Entlehnzettel erschlossen.#STAT= fehlt!#ORGA= NEK****************************************#HEFT= [35]#INHA= Manuscripte des Herrn k.k. Ministerialrathes, Professor Dr. J. Ph. Herr die Reduktion von Wägungen in Luft und von Volums-Bestimmungen, betreffend.#JAHR= 1872 - 1883#SPEZ= W#BEME= Verweis vom 28. April 1891#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [36]#INHA= Etalonierung von Drei Münz-Pfunden MM_D, MM_B und MM_III des k.k. Haupt-Münz-Amtes in Wien.#JAHR= 1873#SPEZ= W#BEME= Neben den Messprotokollen auch ein Konzept des Zertifikats.#BEME= Urpfund 1856 D, Normalpfund B, Normalpfund III haben alle nahezu 500 g und ein Volumen von etwa 62 cm^3.#BEME= Verweis vom 28. April 1891 auf die Hefte [2] und [3]. #BEOB= Marek?#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [37]#INHA= Volums-Bestimmung des Platin-Kiligrammes "Z" und Vergleichungen dessselben mit dem Messing-Kilogramme "E_I" imDezember 1882 und Jänner 1883.#JAHR= 1882 - 1883#SPEZ= W#BEME= Beschreibung der Messungen und der Geräte.#BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.#BEOB= Petersburg#STAT= im Archiv#ORGA= NEK****************************************#HEFT= [38]#INHA= Transportapparat für das Kilogramm "Z".#JAHR= 1882#SPEZ= W#BEME= Im Heft Beschreibung und Zeichnungen über Funktionsweise und Konstruktion eines Halteapparates. Auf Deutsch und Französisch.#BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.#STAT= im Archiv#ORGA= NEK****************************************
+Archiv-Hefte Ältere Serie
+Zuletzt geändert am 04.05.2021
+****************************************
+#HEFT= [M.1]
+#INHA= Bestimmung des aboluten Werthes und der Dilatation der fünf Meter: H, m_3, s_3, M_4 und St auf Grund der Beobachtungen in Heft [M.9] ä.S. Notizen über den Stab "J" des k.k. geogrf. Institutes.
+#JAHR= 1876
+#SPEZ= L
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.2]
+#INHA= ?
+#JAHR= ?
+#SPEZ= L
+#BEME= Die Existenz dieses Heftes ist lediglich aus der Signatur erschlossen.
+#STAT= fehlt!
+#ORGA= NEK
+****************************************
+#HEFT= [M.3]
+#INHA= Vergleichungen der Halb-Toise "A" mit der Halb-Toise "B" und des Glasmeters "G_6" mit dem Glasmeter "G_II".
+#JAHR= 1876
+#SPEZ= L
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.4]
+#INHA= Vergleichung des halben Meters "A_1/2" von Messing mit dem Meter "M_4".
+#JAHR= 1877
+#SPEZ= L
+#BEME= Heft enthält ein Blatt.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.5]
+#INHA= Vergleichungen des Messingmeters "J" des k.k. geografischen Institutes und des Kontrol-Normales n°1 mit den Meterstäben M_4 und H.
+#JAHR= 1876
+#SPEZ= L
+#BEME= Heft enthält ein Blatt.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.6]
+#INHA= Untersuchun der Gebrauchs-Normal-Meter.
+#JAHR= 1873 - 1876
+#SPEZ= L
+#BEME= Neben umfangreichen Protokollen von Vergleichungen befindet sich im Heft auch eine Notiz über den Einfluss der Biegung auf die gemessene Länge.
+#BEME= Einige Längenwertewerte sind in Pariser Linien angegeben. Hinweis auf "Starkes Originalteilung".
+#BEME= Bemerkenswerterweise wurden keine Temperaturen gemessen.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.7]
+#INHA= Vergleichungen der Meterstäbe M_2, M_3, M_4, m_i, C^m_s, R, S und (PM) mit G_II und untereinander.
+#INHA= Vergleichungen der halben Klafter (s'_m) mit der halben Klafter E. 
+#INHA= Bestimmung der Theilungs-Fehler der Meter M_4. (PM), St und R.
+#JAHR= 1872 - 1874
+#SPEZ= L
+#BEME= Heterogenes Konvolut. Mit St wird der "Messingmeter des Herrn Starke" bezeichnet. Teilweise wird die Temperatur berücksichtigt.
+#BEME= Mit roter Schrift finden sich Bearbeitungen von Marek aus 1888.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.8]
+#INHA= Einige Manuscripte zur Untersuchung der Meterstäbe G_II, M_4, N_m, N_s, H und J.
+#JAHR= 1873 - 1876
+#SPEZ= L
+#BEME= Ausführliche Beschreibung der reduzierten Ergebnisse und der untersuchten Meterstäbe. Mit Verweis auf andere Arbeiten. Paraphe von Marek aus 1888.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.9]
+#INHA= Vergleichung der Meter St, M_4, H, m_3 und s_3 mit dem Glasprototipe G_II und untereinander. Journal und unmittelbare Reduktion.
+#JAHR= 1876
+#SPEZ= L
+#BEME= Beiblatt mit Verweis auf [M.11], [BQ] und [M.1]. [BQ] ist ein Archiv-Heft der neuen Serie und behandelt die in der NEK gebräuchlichen Temperaturskalen.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.10]
+#INHA= Constanten des Universal-Comparators der k.k. tech. Hochschule. Stampfer's Original.
+#JAHR= ?
+#SPEZ= L
+#BEME= Der Inhalt besteht aus 6 herausgetrennten Buch-Blättern (Seiten 179 bis 190). Zahlreiche Korrekturzeichen über falsche Buchstaben und falsche Zahlenwerte.
+#BEME= Aus: "Jahrbücher des kaiserl. königl. polytechnischen Institutes in Wien. Band 18, 1834"
+#BEME= Beschreibung zweier am k.k. polytechnischen Institute befindlichen Komparatoren (Maßvergleicher) und Untersuchung ihrer Genauigkeit. S. Stampfer.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.11]
+#INHA= Formeln und Constanten zur unmittelbaren Reduktion der am Universal-Comparator der k.k. tech. Hochschule gemachten Längen-Vergleichungen.
+#JAHR= 1872 ?
+#SPEZ= L
+#BEME= Eine Art Gebrauchsanweisung des Komparators. Vorgangsweise des Vergleichs zweier Maße aus unterschiedlichen Materialien. Im Heft ein Vermerk aus 1888.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.1]
+#INHA= 1. Erste Vergleichung der Thermometer Greiner n° 1, 2, 3, 4 mit den Normal-Thermometer. 2. Erste Vergleichung der Thermometer Kappeller n° 5, 6, 7, u. 8 mit dem Normal-Thermometer. 3. Diverse Eispunkt-Bestimmungen.
+#JAHR= 1872
+#SPEZ= T
+#BEME= Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung ist aber sichtbar.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.12]
+#INHA= Bestimmung der Länge und Ausdehnung der Stäbe "a" und "H". Originalzahlen zu den "Travaux et Memoires du Bureau internationales des Poids at Mesures, Tom III pag. C30 et suiv."
+#JAHR= 1883
+#SPEZ= L
+#BEME= 15 Seiten mit Beobachtuungsdaten und Auswertungen. Auf der ersten Seite eine Skizze der Lage der beiden Stäbe und der verwendeten Thermometer.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.13]
+#INHA= Beiträge zur Theorie der Längenvergleichungen nach der Methode von Fizeau.
+#JAHR= 1872 - 1876
+#SPEZ= L
+#BEME= Umfangreiche mathematische Ableitungen, anscheinend über die Bestimmung der Endmaßlänge mittels Mikroskop (Schattenmethode).
+#BEME= Notizen auf der Rückseite einer Einladung der "Commission Internationale due Metre. Conservatoire des Arts & Metiers aus 1872"
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.14]
+#INHA= Vergleichung der Stäbe H, N_m und N_s mit dem Glasmeter G_II und untereinander.
+#JAHR= 1875 - 1876
+#SPEZ= L
+#BEME= Im Heft ein späterer Verweis auf [M.11], [BQ] und [M.8]. Im Übrigen lediglich direkte Beobachtungsresultate mit spärlicher Beschreibung.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [M.15]
+#INHA= Vergleichungen der Meterstäbe a_1 - a_10 mit dem Meter M_4.
+#JAHR= 1875
+#SPEZ= L
+#BEME= Im Heft ein Blatt mit den Beobachtungen sowie eine in roter Tinte geschriebene Bemerkung aus 1888. Dort auch Verweise auf [M.9], [M.7], [M.1] und [M] (?). 
+#BEME= Statt wie im Titel a_1 bis a_10 ist in der Bemerkung von A_1 bis A_10 die Rede. 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.2]
+#INHA= Zweite Vergleichung der Thermometer Greiner n° 1, 2, 3 u. 4 mit dem Normal-Thermometer.  Eispunkt-Bestimmungen und Tafel IV für diese Thermometer.
+#JAHR= 1874
+#SPEZ= T
+#BEME= Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung am ersten Blatt.
+#BEME= Im Heft ein Diagramm der Abweichungen (?), das karierte Kanzleipapier ist wie ein Millimeterpapier verwendet.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.3]
+#INHA= Dritte Vergleichung der Thermometer Greiner n° 1, 2 mit dem Normal-Thermometer. Zweite Vergleichung der Thermometer Kappeller n° 7, 8 mit dem Normal-Thermometer.
+#JAHR= 1874
+#SPEZ= T
+#BEME= Eine mit roter Tinte später (1885) hinzugefügte Bemerkung mit Verweis auf [T.6] und [BQ]. Im Heft ein Diagramm der Abweichungen welches zur graphischen Interpolation verwendet wurde.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.4]
+#INHA= Fünfte Vergleichung der Thermometer Greiner n° 1, 2 u. 3, mit dem Normal-Thermometer bei Temperaturen ober 0; Erste Vergleichung derselben mit dem Normal-Thermometer bei Temperaturen unter 0, und Bestimmung der Theilungsfehler ihrer Scalen für die Striche unter 0.
+#JAHR= 1876
+#SPEZ= T
+#BEME= Am Titelblatt der Hinweis: "NB. die vierte Vergleichung ist im Hefte [7] ä. S. enthalten."
+#BEME= Gezeichnet von Marek. Beide Thermometer vertikal und ganz eingetaucht. Angaben in °C und in °R. Hinweis auf ein "Meridianzimmer" (?).
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.5]
+#INHA= Untersuchungen der Thermometer Kappeller n° 1021, 1022, 1023, 1025, 1026, 1028, 1029. Bemerkungen über das Thermometer Geissler. Diverse Corrections-Tafeln. Diverse Notizen.
+#JAHR= 1874 - 1876
+#SPEZ= T
+#BEME= Schönes Beobachtungsjournal von Marek. Eispunktbestimmungen wurden mit Schnee durchgeführt (19. und 20. Dezember 1874). Im Heft auch ein Hinweis auf Rumler.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.6]
+#INHA= Herleitung der neuen Tafel für die Thermometer Greiner, für die verticale Lage.
+#JAHR= 1877
+#SPEZ= T
+#BEME= Das Heft beginnt mit 4 Seiten "Theorie der Greiner Thermometer". Zusammenstellung der ersten, zweiten, dritten und fünften Vergleichungen.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.7]
+#INHA= Tafeln für die Greiner Thermometer I für die verticale Lage.
+#JAHR= 1877
+#SPEZ= T
+#BEME= Von Marek. Verweis auf [T.6] und [BQ]. Eispunkte der drei Thermometer ab 1872 bis 1881.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.8]
+#INHA= Tafeln für die Greiner Thermometer II für die horizontale Lage.
+#JAHR= 1877
+#SPEZ= T
+#BEME= Von Marek. Verweis auf [T.6] und [BQ]. Während in [T.7] ausführliche Tabellen der Abweichungen angeführt sind, wird hier ein Korrekturglied für die geänderte Lage mitgeteilt. Die Abweichung beträgt maximal 0,033 °C. Nach der Beschreibung werden die Thermometer in horizontaler Lage ausschließlich in Luft verwendet.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.9]
+#INHA= Normal-Thermometer Herleitung neuer Tafeln.
+#JAHR= 1876 - 1877
+#SPEZ= T
+#BEME= Umfangreiche theoretische Ableitungen, mit einigen Zeichnungen. Anmerkungen in roter Tinte aus 1885.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.10]
+#INHA= Tafeln für das Normal-Thermometer.
+#JAHR= 1877
+#SPEZ= T
+#BEME= Ausführliche Beschreibung der Anwendung der verschiedenen Korrekturen. Die Tafel selbst reicht von -15 °R bis +20 °R. Der Eispunkt wurde im Zeitraum 1865 bis 1880 angegeben.
+#BEME= Anmerkungen in roter Tinte aus 1885.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [T.11]
+#INHA= Correktions-Tafel des Thermometers Greiner n° 1.
+#JAHR= 1874 - 1876
+#SPEZ= T
+#BEME= Im Heft Dokumentation der Entwicklung der Tafel. 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [TA.I]
+#INHA= Untersuchung der Thermometer n° 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23 von L.J. Kappeller welche an die Aichämter der Landeshauptstädte abgegeben werden sollen.
+#JAHR= 1874
+#SPEZ= T
+#BEME= Das Heft enthält eine große Zahl an Korrektionstafeln.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [A.II]
+#INHA= Bestimmung des specifischen Gewichtes weingeistiger Mischungen von 5-40 % w. Stärke für die Temperaturen von 0 bis -10 °R.
+#JAHR= 1875 - 1876
+#SPEZ= A
+#BEME= Sehr ausführliche Arbeit mit der Herleitung des Messverfahrens.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [A.III]
+#INHA= Etalonierung der Gebrauchs-Normal-Spindeln 1a bis 21a und 1b bis 19b.
+#BEIL= I. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 1 bis 8. Sindel b n° 1 bis 8.
+#BEIL= II. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 9 bis 14. Sindel b n° 9 bis 13.
+#BEIL= III. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 15 bis 21. Sindel b n° 9 bis 19.
+#JAHR= 1874 - 1877
+#SPEZ= A
+#BEME= Hauptheft gibt Übersicht und Tabellen der Korrektionen der genannten Spindeln. Verweis in roter Tinte auf Heft [BG]
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [1]
+#INHA= Volums-Bestimmung der Gewichts-Stücke A500 und A200
+#JAHR= 1872
+#SPEZ= W
+#BEME= Zusammenstellung der verwendeten Waagen. Viele Bemerkungen in roter Tinte aus 1887, 1889, 1891
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [2]
+#INHA= Reduktion der Wägungen deren Journal das Heft [3] bildet
+#JAHR= 1872 - 1873
+#SPEZ= W
+#BEME= Im Text Verweis auf Heft [10]. Viele Bemerkungen in roter Tinte aus 1887 mit Verweisen auf die Hefte [A.I], [14], [13], [A.10], [1], [5], [20].
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [3]
+#INHA= Journal diverser in dem Zeitraume 1872, October 22 bis 1873, October 18 ausgeführten Wägungen.
+#JAHR= 1872 - 1873
+#SPEZ= W
+#BEME= Ausführliche tabellarische Auflistung.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [4]
+#INHA= Standcorrection des Barometers: Lenoir n° 829 und einiger anderer.
+#INHA= Bildet die Beilage I zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1872
+#SPEZ= B
+#BEME= Bei den anderen Barometern handelt es sich um Kappeller n° 811, Fortin der k.k. tech. Hochschule und Normalbarometer der k.k. tech. Hochschule. Hinweis auf Prof. H. P. Pierre.
+#BEME= Mit einer Bemerkung aus 1889 von Marek(?).
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [5]
+#INHA= Bestimmung des Volumens der Gewichtsstücke a_100, a_100., a_50 und a_20 .
+#INHA= Bildet die Beilage II zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1872
+#SPEZ= W
+#BEME= Zwei vervielfältigte Formulare zu Hydrostatischen Wägungen.
+#BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [6]
+#INHA= Neue Reduktion einiger Volums-Bestimmung aus Heft [1] ä.S.
+#INHA= Bildet die Beilage III zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1875
+#SPEZ= W
+#BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [7]
+#INHA= Untersuchungen der Thermometer Greiner n° 1, 2, 3. 
+#INHA= Bildet die Beilage IV zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1874
+#SPEZ= T
+#BEME= Zwei Teile: A. Bestimmung der Theilungsfehler und B. Vergleichung mit dem Normal-Thermometer.
+#BEME= Mit Bemerkungen in roter Tinte aus 1885 von Marek(?).
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [8]
+#INHA= Bestimmung der Volumina der Gewichtsstücke der Einsätze B und C.
+#INHA= Bildet die Beilage V zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1875
+#SPEZ= W
+#BEME= Autor (Bearbeiter) des Heftes ist Marek. Die Auswertungsformeln sin logarithmisch angegeben.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [9]
+#INHA= Tafeln.
+#INHA= Bildet die Beilage VI zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1875
+#SPEZ= WT
+#BEME= Tafeln für die Skalenwerte der Waagen. Konstanten des Steinheilschen Einsatzes (Massen und Volumina). Tafeln des Luftgewichtes. Logarithmen-Tafeln für einige Korrekturen. Die Tafeln der Greiner-Thermometer wurde entfernt.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [10'']
+#INHA= Diverse Bestimmungen von Scalenwerthen und anderen Constanten der Wagen der k.k. Normal-Aichungs-Commission. 
+#INHA= (Vergleiche Heft [10] u. [10'] ä.S.)
+#JAHR= 1875 - 1882
+#SPEZ= W
+#BEME= Sehr umfangreiches Heft. Enthält eine Abhandlung zur Theorie der Waage von Marek. Man findet auch eine Aufstellung der damals verwendeten Waagen.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [10']
+#INHA= Diverse Bestimmungen von Scalen-Werthen der Waagen der k.k. Normal-Aichungs-Commission.
+#INHA= vergleiche Heft [10] ä.S.
+#JAHR= 1875 - 1877
+#SPEZ= W
+#BEME= Eine Sammlung unkommentierter Schmier-Zettel.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [10]
+#INHA= Skalenwerth der Wagen. Theorie, Beobachtungen und Constanten.
+#INHA= Bildet die Beilage VII zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1872 - 1875
+#SPEZ= W
+#BEME= Enthält wie [10''] eine Abhandlung zur Theorie der Waage. Es scheint sich um eine Vorversion zu handeln.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [11]
+#INHA= Erste Vergleichung der Einsätze B und C und Zweite Vergleichung des Einsatzes A mit dem Steinheil'schen Einsatze nebst Vergleichungen der Einsätze A, B und C untereinander. (Vor der Volums-Bestimmung der Einsätze B und C)
+#INHA= Bildet die Beilage VIII zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1874 - 1875
+#SPEZ= W
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [12]
+#INHA= Etalonierung der Gewichts-Einsätze B und C. Nach der Bestimmung der Volumina der einzelnen Gewichtsstücke.
+#INHA= Bildet die Beilage IX zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#JAHR= 1875
+#SPEZ= W
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [13]
+#INHA= Etalonierung der Gewichts-Einsätze A, B und C.
+#JAHR= 1874 - 1875 
+#SPEZ= W
+#BEME= Auf dieses Heft wird unter anderen in den Heften [4] [5] [6] [7] [8] [9] verwiesen.
+#BEME= Wird auch unter der Signatur U geführt.
+#BEME= Autor ist Marek
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [14]
+#INHA= Etalonierung des Gewichts-Einsatzes "A" von 1 K bis 10 K.
+#JAHR= 1875
+#SPEZ= W
+#BEME= Es wurden drei Waagen verwendet (Steinheilsche, Kusche und Kleine Örtlingsche).
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [15]
+#INHA= Eine neue Bestimmung des Werthes des Gewichts-Stückes "5_1" aus dem Steinheil'schen Bergkristal-Einsatze.
+#JAHR= 1875
+#SPEZ= W
+#BEME= Es handelt sich um ein 500 g Gewichtsstück. Die Kalibrierung nach dem Substitutionsprinzip ist ausführlich beschrieben.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [16]
+#INHA= Untersuchung eines Gewichts-Einsatzes für den deutschen Gewichtsfabrikanten Herrn "Westphal".
+#JAHR= 1875
+#SPEZ= W
+#BEME= 10 Gewichtsstücke von 1 g bis 500 g. Verweis auf die Hefte [10] und [13] der älteren Serie.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [17]
+#INHA= Zur Justierung der eisernen Kontrol-Normale von 1 kg bis 10 kg, mit Nachträgen.
+#JAHR= 1875 - 1889
+#SPEZ= W
+#BEME= Verweis auf Hefte [2], [13] und [14] der älteren Serie.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [18]
+#INHA= Etalonierung der Gewichts-Einsätze A und D von 1 K. aufwärts.
+#JAHR= 1876
+#SPEZ= W
+#BEME= Gewichtsstücke zu 1 kg, 2 kg, 5 kg und 10 kg. Verweis auf die Hefte [T.5] und [14] der älteren Serie.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [19]
+#INHA= Etalonierung der Gewichts-Einsätze A und D von 1 K. aufwärts. Bestimmung des Werthes der Stücke A_500, B_500 und C_500.
+#JAHR= 1877
+#SPEZ= W
+#BEME= Verweis auf Hefte [T.5], [T.7], [13] und [18] der älteren Serie.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [20]
+#INHA= Übersicht der Bestimmungen der Haupt-Gewichts-Einsätze der k.k. Normal-Aichungs-Com. welche in dem Zeitraume von 1872 - 1876 ausgeführt worden sind.
+#JAHR= 1872 - 1877
+#SPEZ= W
+#BEME= Zahlreiche Verweise auf Hefte der älteren Serie.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [21]
+#INHA= Etalonierung des Gewichts-Einsatzes "R" von 1 mg bis 500 mg.
+#JAHR= 1877
+#SPEZ= W
+#BEME= 15 Gewichtsstücke aus Platin und einen anderen (unleserlichen) Material. Zwei Zeichnungen der Ausführung. Zahlreiche Verweise auf Hefte der älteren Serie. Ein Hinweis auf Steinheil.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [22]
+#INHA= Versuch einer Bestimmung des Scalenwerthes einer Wage aus der Schwingungsdauer derselben, bei verschiedener Belastung.
+#JAHR= 1875
+#SPEZ= W
+#BEME= Mit einer Zeichnung und mathematischen Ableitungen. Mit einer Bemerkung aus 1889.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [23]
+#INHA= Mineralöl-Aräometer für Zoll-Aemter.
+#BEIL= 1
+#BEIL= 2
+#BEIL= 3
+#BEIL= 4
+#BEIL= 5
+#BEIL= 6
+#BEIL= 7 Beilage zu den steographische Protokollen des Abgeordnetenhauses sowie Bemerkungen zur Mineralöl-Besteuerung.
+#BEIL= 8 Anweisung zum Gebrauche des Aräometers und der zugehörigen Reduktionstabelle zur Bestimmung der Dichte der Mineralöle
+#JAHR= 1877 - 1891
+#SPEZ= C
+#BEME= Verweise auf Akten-Zahlen.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [24]
+#INHA= 
+#JAHR= 1877
+#SPEZ= R
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [25]
+#INHA= 
+#JAHR= 1882
+#SPEZ= C
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [26]
+#INHA= 
+#JAHR= 1875
+#SPEZ= L
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [27]
+#INHA= 
+#JAHR= 1882
+#SPEZ= L
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [28]
+#INHA= 
+#JAHR= 1867 - 1872
+#SPEZ= L
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [29]
+#INHA= 
+#JAHR= 1874 - 1978
+#SPEZ= L
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [30]
+#INHA= Zur Herstellung der ersten Alkoholometer-Skalennetze auf Grundlage von [AV]. (Vergleiche auch [AW]).
+#JAHR= 1874
+#SPEZ= A
+#BEME= Grundlagen für Volle Skalen, Skalen von 0 - 72 % und Skalen von 60 % - 100 %.
+#BEME= Im Heft auch drei Skalennetze auf starken Karton gezeichnet.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [31]
+#INHA= Tafeln der Dichte des Wassers. 
+#JAHR= 1878 - 1888
+#SPEZ= D
+#BEME= Berechnete Tafeln aus einer Volums-Formel für den Bereich 4 °C bis 27 °C.
+#BEME= Aus einem Polynom 3-ten Grades wurde der Kehrwert als Polynom 6-ten Grades berechnet.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [32]
+#INHA= Untersuchung der für die österreichische Nord-Polar-Station "Jan Mayen" bestimmten ud der hierämtlichen Aräometer Kapp. no 5, 6, 7 und 8 (Jnv.Nr. 851, 852, 853 und 854)
+#JAHR= 1882
+#SPEZ= C
+#BEME= Umfangreiche Messungen und Korrektur-Kurven für den Dichten-Bereich 1,000 bis 1,031. Wohl zur Dichtebestimmung von Meerwasser gedacht.
+#BEME= Auf Anregung Carl Weyprechts und finanziert von Hans Graf Wilczek wurde auf der Insel Jan Mayen während des Ersten Internationalen Polarjahrs 1882/83 eine österreichisch-ungarische Forschungsstation eingerichtet. Dort wurden unter der Leitung von Emil von Wohlgemuth dreizehn Monate lang meteorologische, magnetische und astronomische Beobachtungen angestellt.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [33]
+#INHA= Überprüfung der an die k.k. Aichämter abgegebenen Saccharometer-Scalen-Netze.
+#JAHR= 1875 - 1876
+#SPEZ= S
+#BEME= 
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [34]
+#INHA= Dimensionen der Aich-Kolben.
+#JAHR= 1874 - 1884
+#SPEZ= N
+#BEME= Im Archiv ein Entlehnzettel: "Bei D.Ing. Friebes! 9.12.1952"
+#BEME= Titel und Jahr wurde aus dem Entlehnzettel erschlossen.
+#STAT= fehlt!
+#ORGA= NEK
+****************************************
+#HEFT= [35]
+#INHA= Manuscripte des Herrn k.k. Ministerialrathes, Professor Dr. J. Ph. Herr die Reduktion von Wägungen in Luft und von Volums-Bestimmungen, betreffend.
+#JAHR= 1872 - 1883
+#SPEZ= W
+#BEME= Verweis vom 28. April 1891
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [36]
+#INHA= Etalonierung von Drei Münz-Pfunden MM_D, MM_B und MM_III des k.k. Haupt-Münz-Amtes in Wien.
+#JAHR= 1873
+#SPEZ= W
+#BEME= Neben den Messprotokollen auch ein Konzept des Zertifikats.
+#BEME= Urpfund 1856 D, Normalpfund B, Normalpfund III haben alle nahezu 500 g und ein Volumen von etwa 62 cm^3.
+#BEME= Verweis vom 28. April 1891 auf die Hefte [2] und [3]. 
+#BEOB= Marek?
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [37]
+#INHA= Volums-Bestimmung des Platin-Kiligrammes "Z" und Vergleichungen dessselben mit dem Messing-Kilogramme "E_I" imDezember 1882 und Jänner 1883.
+#JAHR= 1882 - 1883
+#SPEZ= W
+#BEME= Beschreibung der Messungen und der Geräte.
+#BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.
+#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.
+#BEOB= Petersburg
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
+#HEFT= [38]
+#INHA= Transportapparat für das Kilogramm "Z".
+#JAHR= 1882
+#SPEZ= W
+#BEME= Im Heft Beschreibung und Zeichnungen über Funktionsweise und Konstruktion eines Halteapparates. Auf Deutsch und Französisch.
+#BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.
+#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.
+#STAT= im Archiv
+#ORGA= NEK
+****************************************
