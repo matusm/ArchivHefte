@@ -31,28 +31,9 @@ namespace TXT2XML
             }
         }
 
-        public string ImageFileName => CreateFilename("_V.JPG");
-        public string HtmlFileName => CreateFilename("_V.HTM");
         public string PrettyString => FormatSignature();
 
         public override string ToString() { return PrettyString; }
-
-        private string PadWithUnderScore()
-        {
-            if (sigString.Length == 1)
-                return $"__{sigString}";
-            if (sigString.Length == 2)
-                return $"_{sigString}";
-            return sigString;
-        }
-
-        private string CreateFilename(string postfix)
-        {
-            if (doublet == 0)
-                return PadWithUnderScore() + postfix;
-            else
-                return PadWithUnderScore() + doublet.ToString() + postfix.Substring(1);
-        }
 
         private string FormatSignature()
         {
