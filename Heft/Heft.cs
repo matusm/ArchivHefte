@@ -26,7 +26,6 @@ namespace ArchivHefte
 
         public string ToLegacyFormat(HeftType heftType)
         {
-            string separator = "****************************************";
             if (heftType == HeftType.Empty)
                 return separator;
             StringBuilder sb = new StringBuilder();
@@ -49,6 +48,7 @@ namespace ArchivHefte
 
         /// <summary>
         /// Transforms a string like [ZA] to the legacy syntax _ZA.
+        /// For HeftType.NS only
         /// </summary>
         /// <param name="signatur">The nice signature string.</param>
         /// <returns>The legacy format of the signature string.</returns>
@@ -66,6 +66,10 @@ namespace ArchivHefte
             }
             return signatur.Trim();
         }
+
+        private const string separator = "****************************************";
+
+
     }
 
     public enum HeftType
