@@ -39,6 +39,8 @@ namespace TXT2XML
             #region Reading and parsing the TXT-file
 
             ConsoleUI.ReadingFile(inFilename);
+            // Ältere oder Neue Serie?
+            HeftType heftType = HeftType.NS;
             // Einlesen und Decodierung der Text-Datei
             List<Heft> hefte = new List<Heft>();
             AhSignatur currentSignatur;
@@ -50,7 +52,7 @@ namespace TXT2XML
             StreamReader hTxtFile = File.OpenText(inFilename);
             while ((textLine = hTxtFile.ReadLine()) != null)
             {
-                if (!String.IsNullOrWhiteSpace(textLine))
+                if (!string.IsNullOrWhiteSpace(textLine))
                 {
                     numberTextLines++;
                     // start a new database entity

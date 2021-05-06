@@ -1,22 +1,33 @@
-﻿namespace TXT2XML
+﻿using ArchivHefte;
+
+namespace TXT2XML
 {
     public class AhSignatur
     {
         private readonly string sigString;
         private readonly int doublet;
+        private readonly HeftType heftType;
 
-        public AhSignatur(string token)
+        public AhSignatur(HeftType heftType, string token)
         {
+            this.heftType = heftType;
             doublet = 0;
-            // remove leading underscores
-            token = token.Replace("__", " ");
-            token = token.Replace("_", " ");
-            sigString = token.Trim().ToUpper();
-            if (sigString.Length == 5)
+            if (heftType == HeftType.NS)
             {
-                string index = sigString.Substring(4);
-                doublet = int.Parse(index); // TODO this may raise an exception
-                sigString = sigString.Substring(0, 3);
+                // remove leading underscores
+                token = token.Replace("__", " ");
+                token = token.Replace("_", " ");
+                sigString = token.Trim().ToUpper();
+                if (sigString.Length == 5)
+                {
+                    string index = sigString.Substring(4);
+                    doublet = int.Parse(index); // TODO this may raise an exception
+                    sigString = sigString.Substring(0, 3);
+                }
+            }
+            if(heftType==HeftType.AeS)
+            {
+                sigString = token.Trim();
             }
         }
 
@@ -45,10 +56,14 @@
 
         private string FormatSignature()
         {
-            if (doublet == 0)
-                return $"[{sigString}]";
-            else
-                return $"[{sigString}].{doublet}";
+            if (heftType == HeftType.NS)
+            {
+                if (doublet == 0)
+                    return $"[{sigString}]";
+                else
+                    return $"[{sigString}].{doublet}";
+            }
+            return sigString;
         }
     }
 }

@@ -56,13 +56,17 @@ namespace ArchivHefte
         /// <returns>The legacy format of the signature string.</returns>
         private string ConvertToLegacySignatur(string signatur)
         {
-            string retString = signatur;
-            retString = retString.Replace("[", "");
-            retString = retString.Replace("]", "");
-            retString = retString.Trim();
-            if (retString.Length == 1) return "__" + retString;
-            if (retString.Length == 2) return "_" + retString;
-            return retString;
+            if (Type == HeftType.NS)
+            {
+                string retString = signatur;
+                retString = retString.Replace("[", "");
+                retString = retString.Replace("]", "");
+                retString = retString.Trim();
+                if (retString.Length == 1) return "__" + retString;
+                if (retString.Length == 2) return "_" + retString;
+                return retString;
+            }
+            return signatur.Trim();
         }
     }
 
