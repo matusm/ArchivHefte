@@ -39,10 +39,9 @@ namespace TXT2XML
             #region Reading and parsing the TXT-file
 
             ConsoleUI.ReadingFile(inFilename);
+
             // Ältere oder Neue Serie?
             HeftType heftType = HeftType.NS;
-
-
 
             // Einlesen und Decodierung der Text-Datei
             List<Heft> hefte = new List<Heft>();
