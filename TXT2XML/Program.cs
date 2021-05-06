@@ -65,6 +65,7 @@ namespace TXT2XML
                         currentSignatur = new AhSignatur(heftType, textLine.Substring(7));
                         currentHeft = new AhEntry(currentSignatur);
                         currentHeft.Type = heftType;
+
                     }
                     // parse attributes for the entity
                     currentHeft.FillAttributes(textLine);
