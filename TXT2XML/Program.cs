@@ -40,7 +40,7 @@ namespace TXT2XML
 
             ConsoleUI.ReadingFile(inFilename);
             // Ältere oder Neue Serie?
-            HeftType heftType = HeftType.AeS;
+            HeftType heftType = HeftType.NS;
 
 
 

@@ -5,8 +5,8 @@ namespace ArchivHefte
 {
     public class Heft
     {
-        public HeftType Type { get; set; }
         public string Signatur { get; set; }
+        public HeftType Type { get; set; }
         public string Inhalt { get; set; }
         public string Jahr { get; set; }
         public string Status { get; set; }
