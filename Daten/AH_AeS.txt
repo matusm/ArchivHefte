@@ -462,50 +462,52 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [24]
-#INHA= 
+#INHA= Versuche mit einem Spiritus-Messapparat der Firma Siemens & Comp. (Berlin) ausgeführt in der Spiritusbrennerei zu Hodolein bei Olmütz in Mähren.
 #JAHR= 1877
 #SPEZ= R
-#BEME= 
+#BEME= Schöne Zeichnung des Versuchsaufbaues.
+#BEME= Verweis auf [BZ] und [BW] der neuen Serie.
+#BEME= zur h.o.Z. 2560 ex 1877
 #STAT= im Archiv
 #ORGA= NEK
 ****************************************
 #HEFT= [25]
-#INHA= 
+#INHA= Untersuchung der Gebrauchs-Normal-Spindeln zur Bestimmung des sp. Gewichtes von Mineral-Ölen.
 #JAHR= 1882
 #SPEZ= C
-#BEME= 
+#BEME= Mit umfangreichen Korrektionskurven auch auf Millimeterpapier. Verweis auf [ANM] der neuen Serie.
 #STAT= im Archiv
 #ORGA= NEK
 ****************************************
 #HEFT= [26]
-#INHA= 
+#INHA= Bestimmung des Theilungs-Fehler des Glas-Nonius Inv.N. 768 und einiger anderen an die k.k. Aichämter abgegebenen Glasnonien.
 #JAHR= 1875
 #SPEZ= L
-#BEME= 
+#BEME= Es handelt sich um Nonien von 100 mm Länge.
 #STAT= im Archiv
 #ORGA= NEK
 ****************************************
 #HEFT= [27]
-#INHA= 
+#INHA= Vergleichung einiger Meterstäbe des Wiener Mechanikers Hr. Rost mit dem Haupt-Normal "M_4".
 #JAHR= 1882
 #SPEZ= L
-#BEME= 
+#BEME= Unter Verwendung des Glasnonius aus Heft [26] der älteren Serie.
 #STAT= im Archiv
 #ORGA= NEK
 ****************************************
 #HEFT= [28]
-#INHA= 
+#INHA= Beiträge zur Kenntniss der Ausdehnung der legalen Wiener Klafter (im Comparator der k.k. tech. Hochschule) und der Länge der Halben Klafter "E" der k.k. Academie der Wissenschaften. (Aus dem Manuscripte d. ch. Prof. Dr. Herr zusammengetragen W. Marek 1891)
 #JAHR= 1867 - 1872
 #SPEZ= L
-#BEME= 
+#BEME= Recht umfangreiches Datenmaterial.
 #STAT= im Archiv
 #ORGA= NEK
 ****************************************
 #HEFT= [29]
-#INHA= 
+#INHA= Ausmessung eines Quartzprismas für Herrn Prof. Dr. Edlen von Lang.
 #JAHR= 1874 - 1978
 #SPEZ= L
-#BEME= 
+#BEME= Sachverhalt aus 1891.
 #STAT= im Archiv
 #ORGA= NEK
 ****************************************
