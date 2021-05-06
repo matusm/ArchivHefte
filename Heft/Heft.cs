@@ -5,7 +5,7 @@ namespace ArchivHefte
 {
     public class Heft
     {
-
+        public HeftType Type { get; set; }
         public string Signatur { get; set; }
         public string Inhalt { get; set; }
         public string Jahr { get; set; }
@@ -24,12 +24,12 @@ namespace ArchivHefte
 
         public override string ToString() { return $"Heft: {Signatur}"; }
 
-        public string ToLegacyFormat() { return ToLegacyFormat(false); }
+        public string ToLegacyFormat() { return ToLegacyFormat(Type); }
 
-        public string ToLegacyFormat(bool EmptyEntry)
+        public string ToLegacyFormat(HeftType heftType)
         {
             string separator = "****************************************";
-            if (EmptyEntry == true)
+            if (heftType == HeftType.Empty)
                 return separator;
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(separator);
@@ -64,5 +64,13 @@ namespace ArchivHefte
             if (retString.Length == 2) return "_" + retString;
             return retString;
         }
+    }
+
+    public enum HeftType
+    {
+        Unknown,
+        Empty,  // nichts drinnen -> erzeugt Trennlinie
+        NS,     // Archivheft der "Neuen Serie"
+        AeS     // Archivheft der "Älteren Serie"
     }
 }
