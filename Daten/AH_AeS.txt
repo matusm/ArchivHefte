@@ -54,9 +54,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [M.7]
-#INHA= Vergleichungen der Meterstäbe M_2, M_3, M_4, m_i, C^m_s, R, S und (PM) mit G_II und untereinander.
-#INHA= Vergleichungen der halben Klafter (s'_m) mit der halben Klafter E. 
-#INHA= Bestimmung der Theilungs-Fehler der Meter M_4. (PM), St und R.
+#INHA= Vergleichungen der Meterstäbe M_2, M_3, M_4, m_i, C^m_s, R, S und (PM) mit G_II und untereinander. Vergleichungen der halben Klafter (s'_m) mit der halben Klafter E. Bestimmung der Theilungs-Fehler der Meter M_4. (PM), St und R.
 #JAHR= 1872 - 1874
 #SPEZ= L
 #BEME= Heterogenes Konvolut. Mit St wird der "Messingmeter des Herrn Starke" bezeichnet. Teilweise wird die Temperatur berücksichtigt.
@@ -275,8 +273,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [4]
-#INHA= Standcorrection des Barometers: Lenoir n° 829 und einiger anderer.
-#INHA= Bildet die Beilage I zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Standcorrection des Barometers: Lenoir n° 829 und einiger anderer. Bildet die Beilage I zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1872
 #SPEZ= B
 #BEME= Bei den anderen Barometern handelt es sich um Kappeller n° 811, Fortin der k.k. tech. Hochschule und Normalbarometer der k.k. tech. Hochschule. Hinweis auf Prof. H. P. Pierre.
@@ -285,8 +282,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [5]
-#INHA= Bestimmung des Volumens der Gewichtsstücke a_100, a_100., a_50 und a_20 .
-#INHA= Bildet die Beilage II zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Bestimmung des Volumens der Gewichtsstücke a_100, a_100., a_50 und a_20 . Bildet die Beilage II zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1872
 #SPEZ= W
 #BEME= Zwei vervielfältigte Formulare zu Hydrostatischen Wägungen.
@@ -295,8 +291,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [6]
-#INHA= Neue Reduktion einiger Volums-Bestimmung aus Heft [1] ä.S.
-#INHA= Bildet die Beilage III zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Neue Reduktion einiger Volums-Bestimmung aus Heft [1] ä.S. Bildet die Beilage III zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1875
 #SPEZ= W
 #BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).
@@ -304,8 +299,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [7]
-#INHA= Untersuchungen der Thermometer Greiner n° 1, 2, 3. 
-#INHA= Bildet die Beilage IV zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Untersuchungen der Thermometer Greiner n° 1, 2, 3. Bildet die Beilage IV zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1874
 #SPEZ= T
 #BEME= Zwei Teile: A. Bestimmung der Theilungsfehler und B. Vergleichung mit dem Normal-Thermometer.
@@ -314,8 +308,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [8]
-#INHA= Bestimmung der Volumina der Gewichtsstücke der Einsätze B und C.
-#INHA= Bildet die Beilage V zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Bestimmung der Volumina der Gewichtsstücke der Einsätze B und C. Bildet die Beilage V zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1875
 #SPEZ= W
 #BEME= Autor (Bearbeiter) des Heftes ist Marek. Die Auswertungsformeln sin logarithmisch angegeben.
@@ -323,8 +316,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [9]
-#INHA= Tafeln.
-#INHA= Bildet die Beilage VI zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Tafeln. Bildet die Beilage VI zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1875
 #SPEZ= WT
 #BEME= Tafeln für die Skalenwerte der Waagen. Konstanten des Steinheilschen Einsatzes (Massen und Volumina). Tafeln des Luftgewichtes. Logarithmen-Tafeln für einige Korrekturen. Die Tafeln der Greiner-Thermometer wurde entfernt.
@@ -332,8 +324,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [10'']
-#INHA= Diverse Bestimmungen von Scalenwerthen und anderen Constanten der Wagen der k.k. Normal-Aichungs-Commission. 
-#INHA= (Vergleiche Heft [10] u. [10'] ä.S.)
+#INHA= Diverse Bestimmungen von Scalenwerthen und anderen Constanten der Wagen der k.k. Normal-Aichungs-Commission. (Vergleiche Heft [10] u. [10'] ä.S.)
 #JAHR= 1875 - 1882
 #SPEZ= W
 #BEME= Sehr umfangreiches Heft. Enthält eine Abhandlung zur Theorie der Waage von Marek. Man findet auch eine Aufstellung der damals verwendeten Waagen.
@@ -341,8 +332,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [10']
-#INHA= Diverse Bestimmungen von Scalen-Werthen der Waagen der k.k. Normal-Aichungs-Commission.
-#INHA= vergleiche Heft [10] ä.S.
+#INHA= Diverse Bestimmungen von Scalen-Werthen der Waagen der k.k. Normal-Aichungs-Commission. vergleiche Heft [10] ä.S.
 #JAHR= 1875 - 1877
 #SPEZ= W
 #BEME= Eine Sammlung unkommentierter Schmier-Zettel.
@@ -350,8 +340,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [10]
-#INHA= Skalenwerth der Wagen. Theorie, Beobachtungen und Constanten.
-#INHA= Bildet die Beilage VII zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Skalenwerth der Wagen. Theorie, Beobachtungen und Constanten. Bildet die Beilage VII zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1872 - 1875
 #SPEZ= W
 #BEME= Enthält wie [10''] eine Abhandlung zur Theorie der Waage. Es scheint sich um eine Vorversion zu handeln.
@@ -359,8 +348,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [11]
-#INHA= Erste Vergleichung der Einsätze B und C und Zweite Vergleichung des Einsatzes A mit dem Steinheil'schen Einsatze nebst Vergleichungen der Einsätze A, B und C untereinander. (Vor der Volums-Bestimmung der Einsätze B und C)
-#INHA= Bildet die Beilage VIII zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Erste Vergleichung der Einsätze B und C und Zweite Vergleichung des Einsatzes A mit dem Steinheil'schen Einsatze nebst Vergleichungen der Einsätze A, B und C untereinander. (Vor der Volums-Bestimmung der Einsätze B und C) Bildet die Beilage VIII zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1874 - 1875
 #SPEZ= W
 #BEME= 
@@ -368,8 +356,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [12]
-#INHA= Etalonierung der Gewichts-Einsätze B und C. Nach der Bestimmung der Volumina der einzelnen Gewichtsstücke.
-#INHA= Bildet die Beilage IX zur Untersuchung [U] ä.S. Heft [13] ä.S.
+#INHA= Etalonierung der Gewichts-Einsätze B und C. Nach der Bestimmung der Volumina der einzelnen Gewichtsstücke. Bildet die Beilage IX zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1875
 #SPEZ= W
 #BEME= 
@@ -541,7 +528,7 @@ Zuletzt geändert am 05.05.2021
 #ORGA= NEK
 ****************************************
 #HEFT= [32]
-#INHA= Untersuchung der für die österreichische Nord-Polar-Station "Jan Mayen" bestimmten ud der hierämtlichen Aräometer Kapp. no 5, 6, 7 und 8 (Jnv.Nr. 851, 852, 853 und 854)
+#INHA= Untersuchung der für die österreichische Nord-Polar-Station "Jan Mayen" bestimmten und der hierämtlichen Aräometer Kapp. no 5, 6, 7 und 8 (Jnv.Nr. 851, 852, 853 und 854)
 #JAHR= 1882
 #SPEZ= C
 #BEME= Umfangreiche Messungen und Korrektur-Kurven für den Dichten-Bereich 1,000 bis 1,031. Wohl zur Dichtebestimmung von Meerwasser gedacht.

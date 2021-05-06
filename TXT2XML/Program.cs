@@ -40,7 +40,10 @@ namespace TXT2XML
 
             ConsoleUI.ReadingFile(inFilename);
             // Ältere oder Neue Serie?
-            HeftType heftType = HeftType.NS;
+            HeftType heftType = HeftType.AeS;
+
+
+
             // Einlesen und Decodierung der Text-Datei
             List<Heft> hefte = new List<Heft>();
             AhSignatur currentSignatur;
