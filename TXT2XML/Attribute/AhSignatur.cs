@@ -27,7 +27,7 @@ namespace TXT2XML
             }
             if(heftType==HeftType.AeS)
             {
-                sigString = token.Trim();
+                sigString = token.Trim(); // [] are included
             }
         }
 

@@ -71,7 +71,7 @@ namespace TXT2XML
 
                     }
                     // parse attributes for the entity
-                    currentHeft.FillAttributes(textLine);
+                    currentHeft.ParseAttributes(textLine);
                 }
             }
             // the last entity must be added to the collection

@@ -48,8 +48,8 @@
     public enum AhOrganisationEnum
     {
         Unknown,
-        Nek,
-        Aew,
-        Bev
+        Nek,    // Normal-Eichungskommission
+        Aew,    // Amt für Eichwesen
+        Bev     // Bundesamt für Eich- und Vermessungswesen
     }
 }

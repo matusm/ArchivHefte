@@ -56,7 +56,7 @@ namespace TXT2XML
             return heft;
         }
 
-        public void FillAttributes(string dataLine)
+        public void ParseAttributes(string dataLine)
         {
             if (dataLine.Contains("#JAHR= "))
             {
