@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using ArchivHefte;
 using Bev.UI;
 using System.IO;
