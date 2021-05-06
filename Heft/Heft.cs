@@ -19,8 +19,6 @@ namespace ArchivHefte
         // The following properties are redundant but handy
         public List<string> Keys { get; set; }
         public int Chronologie { get; set; }
-        public string HtmlFileName { get; set; }
-        public string ImageFileName { get; set; }
 
         public override string ToString() { return $"Heft: {Signatur}"; }
 

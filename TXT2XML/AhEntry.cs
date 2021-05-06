@@ -18,6 +18,7 @@ namespace TXT2XML
         #endregion
 
         public Heft ArchivHeft => Consolidate();
+        public HeftType Type { get; set; }
 
         public AhEntry(AhSignatur sig) : this()
         {
@@ -39,6 +40,7 @@ namespace TXT2XML
         public Heft Consolidate()
         {
             Heft heft = new Heft();
+            heft.Type = Type;
             heft.Signatur = ahSignatur.PrettyString;
             heft.Inhalt = ahInhalt.Inhalt;
             heft.Jahr = ahYear.AsString;
@@ -50,8 +52,6 @@ namespace TXT2XML
             heft.Bearbeiter = ahBearbeiter.Paragraphs;
             heft.Bemerkungen = ahBemerkungen.Paragraphs;
             heft.Chronologie = ahYear.AsNumber;
-            heft.HtmlFileName = ahSignatur.HtmlFileName;
-            heft.ImageFileName = ahSignatur.ImageFileName;
             heft.Markierung = ahMarkierung.Markierung;
             return heft;
         }

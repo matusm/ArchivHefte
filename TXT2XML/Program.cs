@@ -45,6 +45,7 @@ namespace TXT2XML
             List<Heft> hefte = new List<Heft>();
             AhSignatur currentSignatur;
             AhEntry currentHeft = new AhEntry();
+            currentHeft.Type = heftType;
 
             int numberTextLines = 0;
             string textLine;
@@ -61,8 +62,9 @@ namespace TXT2XML
                         if (!isFirstHeft)
                             hefte.Add(currentHeft.ArchivHeft);
                         isFirstHeft = false;
-                        currentSignatur = new AhSignatur(textLine.Substring(7));
+                        currentSignatur = new AhSignatur(heftType, textLine.Substring(7));
                         currentHeft = new AhEntry(currentSignatur);
+                        currentHeft.Type = heftType;
                     }
                     // parse attributes for the entity
                     currentHeft.FillAttributes(textLine);
