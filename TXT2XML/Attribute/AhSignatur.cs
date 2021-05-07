@@ -1,4 +1,5 @@
 ﻿using ArchivHefte;
+using System;
 
 namespace TXT2XML
 {
@@ -8,27 +9,13 @@ namespace TXT2XML
         private readonly int doublet;
         private readonly HeftType heftType;
 
-        public AhSignatur(HeftType heftType, string token)
+        public AhSignatur(HeftType heftType, string rawString)
         {
             this.heftType = heftType;
-            doublet = 0;
-            if (heftType == HeftType.NS)
-            {
-                // remove leading underscores
-                token = token.Replace("__", " ");
-                token = token.Replace("_", " ");
-                sigString = token.Trim().ToUpper();
-                if (sigString.Length == 5)
-                {
-                    string index = sigString.Substring(4);
-                    doublet = int.Parse(index); // TODO this may raise an exception
-                    sigString = sigString.Substring(0, 3);
-                }
-            }
-            if(heftType==HeftType.AeS)
-            {
-                sigString = token.Trim(); // [] are included
-            }
+            // zuerst auf Dubletten prüfen
+            doublet = ParseNumberOfDubs(rawString);
+            rawString = StripDubs(rawString);
+            sigString = ConvertFromLegacySyntax(rawString);
         }
 
         public string PrettyString => FormatSignature();
@@ -37,14 +24,53 @@ namespace TXT2XML
 
         private string FormatSignature()
         {
-            if (heftType == HeftType.NS)
-            {
-                if (doublet == 0)
-                    return $"[{sigString}]";
-                else
-                    return $"[{sigString}].{doublet}";
-            }
-            return sigString;
+            if (doublet == 0)
+                return sigString;
+            else
+                return $"{sigString}.{doublet}";
         }
+
+        private int ParseNumberOfDubs(string rawString)
+        {
+            if (string.IsNullOrWhiteSpace(rawString))
+                return 0;
+            char[] delimiterChars = { '.' };
+            string[] token = rawString.Split(delimiterChars, StringSplitOptions.RemoveEmptyEntries);
+            if (token.Length != 2)
+                return 0;
+            if (int.TryParse(token[1], out int dubs))
+                return dubs;
+            return 0;
+        }
+
+        private string StripDubs(string rawString)
+        {
+            if (string.IsNullOrWhiteSpace(rawString))
+                return "";
+            char[] delimiterChars = { '.' };
+            string[] token = rawString.Split(delimiterChars, StringSplitOptions.RemoveEmptyEntries);
+            if (token.Length >= 1)
+                return token[0].Trim();
+            return "";
+        }
+
+        private string ConvertFromLegacySyntax(string rawString)
+        {
+            if (string.IsNullOrWhiteSpace(rawString))
+                return "";
+            if (rawString.Contains("["))
+            {
+                return rawString;
+            }
+            else
+            {
+                // remove leading underscores
+                rawString = rawString.Replace("__", " ");
+                rawString = rawString.Replace("_", " ");
+                // enclose with []
+                return $"[{rawString.Trim()}]";
+            }
+        }
+
     }
 }
