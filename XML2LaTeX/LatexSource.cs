@@ -9,8 +9,10 @@ namespace XML2LaTeX
         private readonly StringBuilder sb = new StringBuilder(); // The place for the complete source
         private readonly StringBuilder sbFehlendA = new StringBuilder(); // Die im Archiv fehlenden Hefte allgemeiner Natur        
         private readonly StringBuilder sbFehlendE = new StringBuilder(); // Die im Archiv fehlenden Hefte elektrischer Natur ohne E-Zähler
+        private readonly StringBuilder sbChronologie = new StringBuilder();
         private readonly StringBuilder sbSpezialIndex = new StringBuilder();
         private readonly IndexSpezial spezialIndex = new IndexSpezial();
+        private readonly IndexChronologie chronoIndex = new IndexChronologie();
         private bool finalized = false;
 
         public LatexSource()
@@ -18,17 +20,15 @@ namespace XML2LaTeX
             CreatePreamble();
         }
 
-        /// <summary>
-        /// Fuegt die Daten eines Archivheftes in den LaTeX-Code ein
-        /// </summary>
-        /// <param name="heft">Das Archivheft welches einzusetzen ist.</param>
         public void AddHeft(Heft heft)
         {
             // wenn Datei bereits abgeschlossen, tue nichts.
             if (finalized == true)
                 return;
-            // Nehme Heft zum Index fehlender Hefte hinzu
+            // Nehme Heft in Index fehlender Hefte auf
             AddToIndexFehlend(heft);
+            // Nehme Heft ins Chronologisch Verzeichnis auf
+            chronoIndex.Add(heft);
             // Nehme Heft ins Spezialverzeichnis auf
             spezialIndex.Add(heft);
             // Je nachdem aus welchen Verzeichnis entnommen, gibt es eine neue Überschrift
@@ -342,6 +342,9 @@ namespace XML2LaTeX
             // Spezialverzeichnis
             sbSpezialIndex.Clear();
             sbSpezialIndex.AppendLine(@"\chapter{Themen des Spezialverzeichnises}");
+            // Chronologisches Verzeichnis
+            sbChronologie.Clear();
+            sbChronologie.AppendLine(@"\chapter{Chronologisches Verzeichnises}");
         }
 
         private void FinalizeSource()
@@ -349,8 +352,11 @@ namespace XML2LaTeX
             if (finalized == true)
                 return;
             CreateSpezial();
+            sbChronologie.Append(chronoIndex.AsText());
             sb.AppendLine();
             sb.Append(sbSpezialIndex.ToString());
+            sb.AppendLine();
+            sb.Append(sbChronologie.ToString());
             sb.AppendLine();
             sb.Append(sbFehlendA.ToString());
             sb.AppendLine();
