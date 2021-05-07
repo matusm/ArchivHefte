@@ -48,15 +48,15 @@ namespace XML2TXT
             using (StreamWriter outFile = new StreamWriter(outFilename))
             {
                 // add some documentation at top of file
-                outFile.WriteLine(hefte.Hefte[0].ToLegacyFormat(HeftType.Empty));
+                outFile.WriteLine(hefte.Hefte[0].ToTextFormat(HeftType.Empty));
                 outFile.WriteLine($"XML Datei: {inFilename}");
                 outFile.WriteLine($"Erzeugt am {DateTime.Now} durch {ConsoleUI.Title}");
                 outFile.WriteLine($"{hefte.NumberOfHefte} Archivhefte der {hefte.Hefte[0].Type}");
                 foreach (var h in hefte.Hefte)
                 {
-                    outFile.WriteLine(h.ToLegacyFormat());
+                    outFile.WriteLine(h.ToTextFormat());
                 }
-                outFile.WriteLine(hefte.Hefte[0].ToLegacyFormat(HeftType.Empty));
+                outFile.WriteLine(hefte.Hefte[0].ToTextFormat(HeftType.Empty));
             }
             ConsoleUI.Done();
 

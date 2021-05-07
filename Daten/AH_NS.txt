@@ -7968,7 +7968,7 @@ Letzte Änderung am 05.05.2021
 #MARK= 
 **********
 #HEFT= AKS.1
-#INHA= Bestimmung des Winkelwertes von 10 Stück Libellen für die k.k. Mormal-Aichungs-Kommission geliefert von der Firma H. Schorss in Wien. vide auch Heft [ACH]. Weitere Überprüfungen in Heften [AQE] und [AWJ].
+#INHA= Bestimmung des Winkelwertes von 10 Stück Libellen für die k.k. Normal-Aichungs-Kommission geliefert von der Firma H. Schorss in Wien. vide auch Heft [ACH]. Weitere Überprüfungen in Heften [AQE] und [AWJ].
 #JAHR= 1901
 #SPEZ= a
 #BEME= Am Heft Stempel: "Es existiert noch ein zweites Heft [AKS]"

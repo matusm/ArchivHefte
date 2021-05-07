@@ -28,9 +28,23 @@ namespace ArchivHefte
         {
             if (heftType == HeftType.Empty)
                 return separator;
+            return ToPlainFormat(ConvertToLegacySignatur(Signatur));
+        }
+
+        public string ToTextFormat(HeftType heftType)
+        {
+            if (heftType == HeftType.Empty)
+                return separator;
+            return ToPlainFormat(Signatur);
+        }
+
+        public string ToTextFormat() { return ToTextFormat(Type); }
+
+        private string ToPlainFormat(string signatureText)
+        {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(separator);
-            sb.AppendLine($"#HEFT= {ConvertToLegacySignatur(Signatur)}");
+            sb.AppendLine($"#HEFT= {signatureText}");
             sb.AppendLine($"#INHA= {Inhalt}");
             foreach (var s in Beilagen)
                 sb.AppendLine($"#BEIL= {s}");
@@ -68,7 +82,6 @@ namespace ArchivHefte
         }
 
         private const string separator = "****************************************";
-
 
     }
 
