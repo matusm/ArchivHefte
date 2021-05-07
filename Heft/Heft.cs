@@ -15,7 +15,7 @@ namespace ArchivHefte
         public List<string> Beilagen { get; set; }
         public List<string> Bearbeiter { get; set; }
         public List<string> Bemerkungen { get; set; }
-        public string Markierung { get; set; }
+        public string Markierung { get; set; } // ?
         // The following properties are redundant but handy
         public List<string> Keys { get; set; }
         public int Chronologie { get; set; }
