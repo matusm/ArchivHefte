@@ -25,6 +25,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1876
 #SPEZ= L
 #BEME= Das Glasmeter G_6 ist neben G_II in der Arbeit von Steinheil aus 1867 beschrieben.
+#BEME= Beide Glasmeter befinden sich noch im Bestand des BEV. 
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -39,7 +40,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #MARK= 
 ****************************************
 #HEFT= [M.5]
-#INHA= Vergleichungen des Messingmeters "J" des k.k. geografischen Institutes und des Kontrol-Normales n°1 mit den Meterstäben M_4 und H.
+#INHA= Vergleichungen des Messingmeters "J" des k.k. geografischen Institutes und des Kontrol-Normales n° 1 mit den Meterstäben M_4 und H.
 #JAHR= 1876
 #SPEZ= L
 #BEME= Heft enthält ein Blatt.
@@ -52,7 +53,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1873 - 1876
 #SPEZ= L
 #BEME= Neben umfangreichen Protokollen von Vergleichungen befindet sich im Heft auch eine Notiz über den Einfluss der Biegung auf die gemessene Länge.
-#BEME= Einige Längenwertewerte sind in Pariser Linien angegeben. Hinweis auf "Starkes Originalteilung".
+#BEME= Einige Längenwerte sind in Pariser Linien angegeben. Hinweis auf "Starkes Originalteilung".
 #BEME= Bemerkenswerterweise wurden keine Temperaturen gemessen.
 #STAT= im Archiv.
 #ORGA= NEK
@@ -63,6 +64,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1872 - 1874
 #SPEZ= L
 #BEME= Heterogenes Konvolut. Mit St wird der "Messingmeter des Herrn Starke" bezeichnet. Teilweise wird die Temperatur berücksichtigt.
+#BEME= Glasmeter G_II ist noch im Bestand des BEV.
 #BEME= Mit roter Schrift finden sich Bearbeitungen von Marek aus 1888.
 #STAT= im Archiv.
 #ORGA= NEK
@@ -73,6 +75,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1873 - 1876
 #SPEZ= L
 #BEME= Ausführliche Beschreibung der reduzierten Ergebnisse und der untersuchten Meterstäbe. Mit Verweis auf andere Arbeiten. Paraphe von Marek aus 1888.
+#BEME= Glasmeter G_II ist noch im Bestand des BEV.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -82,6 +85,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1876
 #SPEZ= L
 #BEME= Beiblatt mit Verweis auf [M.11], [BQ] und [M.1]. [BQ] ist ein Archiv-Heft der neuen Serie und behandelt die in der NEK gebräuchlichen Temperaturskalen.
+#BEME= Glasmeter G_II ist noch im Bestand des BEV.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -308,6 +312,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1872
 #SPEZ= B
 #BEME= Bei den anderen Barometern handelt es sich um Kappeller n° 811, Fortin der k.k. tech. Hochschule und Normalbarometer der k.k. tech. Hochschule. Hinweis auf Prof. H. P. Pierre.
+#BEME= Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.
 #BEME= Mit einer Bemerkung aus 1889 von Marek(?).
 #STAT= im Archiv.
 #ORGA= NEK
@@ -318,6 +323,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1872
 #SPEZ= W
 #BEME= Zwei vervielfältigte Formulare zu Hydrostatischen Wägungen.
+#BEME= Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.
 #BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).
 #STAT= im Archiv.
 #ORGA= NEK
@@ -327,6 +333,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #INHA= Neue Reduktion einiger Volums-Bestimmung aus Heft [1] ä.S. Bildet die Beilage III zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1875
 #SPEZ= W
+#BEME= Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.
 #BEME= Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).
 #STAT= im Archiv.
 #ORGA= NEK
@@ -337,6 +344,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1874
 #SPEZ= T
 #BEME= Zwei Teile: A. Bestimmung der Theilungsfehler und B. Vergleichung mit dem Normal-Thermometer.
+#BEME= Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.
 #BEME= Mit Bemerkungen in roter Tinte aus 1885 von Marek(?).
 #STAT= im Archiv.
 #ORGA= NEK
@@ -346,7 +354,8 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #INHA= Bestimmung der Volumina der Gewichtsstücke der Einsätze B und C. Bildet die Beilage V zur Untersuchung [U] ä.S. Heft [13] ä.S.
 #JAHR= 1875
 #SPEZ= W
-#BEME= Autor (Bearbeiter) des Heftes ist Marek. Die Auswertungsformeln sin logarithmisch angegeben.
+#BEME= Autor (Bearbeiter) des Heftes ist Marek. Die Auswertungsformeln sind logarithmisch angegeben.
+#BEME= Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -356,6 +365,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1875
 #SPEZ= WT
 #BEME= Tafeln für die Skalenwerte der Waagen. Konstanten des Steinheilschen Einsatzes (Massen und Volumina). Tafeln des Luftgewichtes. Logarithmen-Tafeln für einige Korrekturen. Die Tafeln der Greiner-Thermometer wurde entfernt.
+#BEME= Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -426,7 +436,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #HEFT= [15]
 #INHA= Eine neue Bestimmung des Werthes des Gewichts-Stückes "5_1" aus dem Steinheil'schen Bergkristal-Einsatze.
 #JAHR= 1875
-#SPEZ= W
+#SPEZ= Wq
 #BEME= Es handelt sich um ein 500 g Gewichtsstück. Die Kalibrierung nach dem Substitutionsprinzip ist ausführlich beschrieben.
 #STAT= im Archiv.
 #ORGA= NEK
@@ -480,7 +490,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #HEFT= [21]
 #INHA= Etalonierung des Gewichts-Einsatzes "R" von 1 mg bis 500 mg.
 #JAHR= 1877
-#SPEZ= W
+#SPEZ= Wp
 #BEME= 15 Gewichtsstücke aus Platin und einen anderen (unleserlichen) Material. Zwei Zeichnungen der Ausführung. Zahlreiche Verweise auf Hefte der älteren Serie. Ein Hinweis auf Steinheil.
 #STAT= im Archiv.
 #ORGA= NEK
@@ -640,7 +650,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #HEFT= [37]
 #INHA= Volums-Bestimmung des Platin-Kiligrammes "Z" und Vergleichungen dessselben mit dem Messing-Kilogramme "E_I" imDezember 1882 und Jänner 1883.
 #JAHR= 1882 - 1883
-#SPEZ= W
+#SPEZ= Wp
 #BEME= Beschreibung der Messungen und der Geräte.
 #BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.
 #BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.
@@ -652,7 +662,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #HEFT= [38]
 #INHA= Transportapparat für das Kilogramm "Z".
 #JAHR= 1882
-#SPEZ= W
+#SPEZ= Wp
 #BEME= Im Heft Beschreibung und Zeichnungen über Funktionsweise und Konstruktion eines Halteapparates. Auf Deutsch und Französisch.
 #BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.
 #BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.
