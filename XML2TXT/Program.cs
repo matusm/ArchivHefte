@@ -51,7 +51,7 @@ namespace XML2TXT
                 outFile.WriteLine(hefte.Hefte[0].ToLegacyFormat(HeftType.Empty));
                 outFile.WriteLine($"XML Datei: {inFilename}");
                 outFile.WriteLine($"Erzeugt am {DateTime.Now} durch {ConsoleUI.Title}");
-                outFile.WriteLine($"{hefte.NumberOfHefte} Archivhefte");
+                outFile.WriteLine($"{hefte.NumberOfHefte} Archivhefte der {hefte.Hefte[0].Type}");
                 foreach (var h in hefte.Hefte)
                 {
                     outFile.WriteLine(h.ToLegacyFormat());
