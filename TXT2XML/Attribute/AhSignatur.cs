@@ -34,6 +34,8 @@ namespace TXT2XML
         {
             if (string.IsNullOrWhiteSpace(rawString))
                 return 0;
+            if (heftType == HeftType.AeS)
+                return 0;
             char[] delimiterChars = { '.' };
             string[] token = rawString.Split(delimiterChars, StringSplitOptions.RemoveEmptyEntries);
             if (token.Length != 2)
@@ -47,6 +49,8 @@ namespace TXT2XML
         {
             if (string.IsNullOrWhiteSpace(rawString))
                 return "";
+            if (heftType == HeftType.AeS)
+                return rawString.Trim();
             char[] delimiterChars = { '.' };
             string[] token = rawString.Split(delimiterChars, StringSplitOptions.RemoveEmptyEntries);
             if (token.Length >= 1)
