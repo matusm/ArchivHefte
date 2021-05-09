@@ -221,6 +221,7 @@ namespace XML2LaTeX
             tmp = tmp.Replace(@"_XX", @"$_\mathrm{XX}$");
             tmp = tmp.Replace(@"_X", @"$_\mathrm{X}$");
             tmp = tmp.Replace(@"_J", @"$_\mathrm{J}$");
+            tmp = tmp.Replace(@"^m_s", @"$^\mathrm{m}_\mathrm{s}$");
 
             // Punkte im Satz
             tmp = tmp.Replace(@"k.k. ", @"k.k.\ ");

@@ -10,10 +10,10 @@ namespace TXT2XML
     {
         static void Main(string[] args)
         {
-            ConsoleUI.Welcome();
+            //ConsoleUI.Welcome();
 
             #region File name logic
-            string defaultFileName = "AH_NS";
+            string defaultFileName = "AH_AeS";
             string baseInFileName = "";
             string baseOutFileName = "";
             if(args==null || args.Length==0)
@@ -37,7 +37,7 @@ namespace TXT2XML
 
             #region Reading and parsing the TXT-file
 
-            ConsoleUI.ReadingFile(inFilename);
+            //ConsoleUI.ReadingFile(inFilename);
 
             // Ältere oder Neue Serie?
             HeftType heftType = HeftType.AeS;
@@ -75,22 +75,22 @@ namespace TXT2XML
             // the last entity must be added to the collection
             hefte.Add(currentHeft.ArchivHeft);
             hTxtFile.Close();
-            ConsoleUI.Done();
+            //ConsoleUI.Done();
 
             #endregion
 
-            ConsoleUI.WriteLine();
-            ConsoleUI.WriteLine($"{numberTextLines} Zeilen in Datei {inFilename} -> {hefte.Count} Hefte");
-            ConsoleUI.WriteLine();
+            //ConsoleUI.WriteLine();
+            //ConsoleUI.WriteLine($"{numberTextLines} Zeilen in Datei {inFilename} -> {hefte.Count} Hefte");
+            //ConsoleUI.WriteLine();
 
             #region Writing XML-file
 
-            ConsoleUI.WritingFile(outFilename);
+            //ConsoleUI.WritingFile(outFilename);
             StreamWriter hXmlFile = new StreamWriter(outFilename);
             XmlSerializer x = new XmlSerializer(hefte.GetType());
             x.Serialize(hXmlFile, hefte);
             hXmlFile.Close();
-            ConsoleUI.Done();
+            //ConsoleUI.Done();
 
             # endregion
 
