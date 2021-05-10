@@ -13,7 +13,7 @@ namespace XML2LaTeX
             Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
 
             #region File name logic
-            string defaultFileName = "AH_AeS";
+            string defaultFileName = "/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS";
             string baseInFileName = "";
             string baseOutFileName = "";
             if(args==null || args.Length==0)

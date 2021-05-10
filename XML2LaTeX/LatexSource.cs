@@ -136,6 +136,7 @@ namespace XML2LaTeX
         private string AhEncode(string inp)
         {
             string tmp = SaveEncoder.Encode(inp, EncodeFor.Tex);
+            // Die Reihenfolge ist wichtig!
             // Umwandlung einiger Formel(zeichen)
             tmp = tmp.Replace(@" {$^\circ$}R", @"\,{$^\circ$}R");
             tmp = tmp.Replace(@" {$^\circ$}C", @"\,{$^\circ$}C");
@@ -183,10 +184,16 @@ namespace XML2LaTeX
             tmp = tmp.Replace(@"F_1712", @"$\mathrm{F_{1712}}$");
             tmp = tmp.Replace(@"Sonne^K", @"$\mathrm{\bigodot^K}$");
             tmp = tmp.Replace(@"S^K", @"$\mathrm{S^K}$");
+            tmp = tmp.Replace(@"^2", @"$^2$");
+            tmp = tmp.Replace(@"^3", @"$^3$");
+            tmp = tmp.Replace(@"_100", @"$_\mathrm{100}$");
             tmp = tmp.Replace(@"_10", @"$_\mathrm{10}$");
+            tmp = tmp.Replace(@"_20", @"$_\mathrm{20}$");
             tmp = tmp.Replace(@"_14", @"$_\mathrm{14}$");
             tmp = tmp.Replace(@"_33", @"$_\mathrm{33}$");
             tmp = tmp.Replace(@"_500", @"$_\mathrm{500}$");
+            tmp = tmp.Replace(@"_50", @"$_\mathrm{50}$");
+            tmp = tmp.Replace(@"_1/2", @"$_\mathrm{1/2}$");
             tmp = tmp.Replace(@"_0", @"$_\mathrm{0}$");
             tmp = tmp.Replace(@"_1", @"$_\mathrm{1}$");
             tmp = tmp.Replace(@"_2", @"$_\mathrm{2}$");
@@ -204,6 +211,7 @@ namespace XML2LaTeX
             tmp = tmp.Replace(@"_(4)", @"$_\mathrm{(4)}$");
             tmp = tmp.Replace(@"_(5)", @"$_\mathrm{(5)}$");
             tmp = tmp.Replace(@"_(6)", @"$_\mathrm{(6)}$");
+            tmp = tmp.Replace(@"^m_s", @"$^\mathrm{m}_\mathrm{s}$");
             tmp = tmp.Replace(@"_a", @"$_\mathrm{a}$");
             tmp = tmp.Replace(@"_b", @"$_\mathrm{b}$");
             tmp = tmp.Replace(@"_c", @"$_\mathrm{c}$");
@@ -212,16 +220,20 @@ namespace XML2LaTeX
             tmp = tmp.Replace(@"_f", @"$_\mathrm{f}$");
             tmp = tmp.Replace(@"_g", @"$_\mathrm{g}$");
             tmp = tmp.Replace(@"_h", @"$_\mathrm{h}$");
+            tmp = tmp.Replace(@"_i", @"$_\mathrm{i}$");
             tmp = tmp.Replace(@"_V", @"$_\mathrm{V}$");
             tmp = tmp.Replace(@"_s", @"$_\mathrm{s}$");
             tmp = tmp.Replace(@"_S", @"$_\mathrm{S}$");
             tmp = tmp.Replace(@"_B", @"$_\mathrm{B}$");
+            tmp = tmp.Replace(@"_D", @"$_\mathrm{D}$");
+            tmp = tmp.Replace(@"_III", @"$_\mathrm{III}$");
             tmp = tmp.Replace(@"_II", @"$_\mathrm{II}$");
             tmp = tmp.Replace(@"_I", @"$_\mathrm{I}$");
             tmp = tmp.Replace(@"_XX", @"$_\mathrm{XX}$");
             tmp = tmp.Replace(@"_X", @"$_\mathrm{X}$");
             tmp = tmp.Replace(@"_J", @"$_\mathrm{J}$");
-            tmp = tmp.Replace(@"^m_s", @"$^\mathrm{m}_\mathrm{s}$");
+            tmp = tmp.Replace(@"_m", @"$_\mathrm{m}$");
+            
 
             // Punkte im Satz
             tmp = tmp.Replace(@"k.k. ", @"k.k.\ ");

@@ -3,6 +3,8 @@ using ArchivHefte;
 using Bev.UI;
 using System.IO;
 using System.Xml.Serialization;
+using System;
+using System.Reflection;
 
 namespace TXT2XML
 {
@@ -10,10 +12,10 @@ namespace TXT2XML
     {
         static void Main(string[] args)
         {
-            //ConsoleUI.Welcome();
+            Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
 
             #region File name logic
-            string defaultFileName = "AH_AeS";
+            string defaultFileName = "/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS";
             string baseInFileName = "";
             string baseOutFileName = "";
             if(args==null || args.Length==0)
@@ -37,7 +39,7 @@ namespace TXT2XML
 
             #region Reading and parsing the TXT-file
 
-            //ConsoleUI.ReadingFile(inFilename);
+            Console.WriteLine($"{inFilename} parsed.");
 
             // Ältere oder Neue Serie?
             HeftType heftType = HeftType.AeS;
@@ -91,6 +93,8 @@ namespace TXT2XML
             x.Serialize(hXmlFile, hefte);
             hXmlFile.Close();
             //ConsoleUI.Done();
+
+            Console.WriteLine($"{outFilename} written.");
 
             # endregion
 

@@ -15,7 +15,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #INHA= ?
 #JAHR= 
 #SPEZ= L
-#BEME= Die Existenz dieses Heftes ist lediglich aus der Signatur erschlossen.
+#BEME= Die Existenz und Zuordnung dieses Heftes ist lediglich aus der Signatur erschlossen.
 #STAT= fehlt!
 #ORGA= NEK
 #MARK= 
@@ -270,9 +270,9 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 ****************************************
 #HEFT= [A.III]
 #INHA= Etalonierung der Gebrauchs-Normal-Spindeln 1a bis 21a und 1b bis 19b.
-#BEIL= I. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 1 bis 8. Sindel b n° 1 bis 8.
-#BEIL= II. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 9 bis 14. Sindel b n° 9 bis 13.
-#BEIL= III. Untersuchung der Alkoholometer-Gebrausnormale Spindel a n° 15 bis 21. Sindel b n° 9 bis 19.
+#BEIL= I. Untersuchung der Alkoholometer-Gebrauchsnormale Spindel a n° 1 bis 8. Sindel b n° 1 bis 8.
+#BEIL= II. Untersuchung der Alkoholometer-Gebrauchsnormale Spindel a n° 9 bis 14. Sindel b n° 9 bis 13.
+#BEIL= III. Untersuchung der Alkoholometer-Gebrauchsnormale Spindel a n° 15 bis 21. Sindel b n° 9 bis 19.
 #JAHR= 1874 - 1877
 #SPEZ= A
 #BEME= Hauptheft gibt Übersicht und Tabellen der Korrektionen der genannten Spindeln. Verweis in roter Tinte auf Heft [BG]
@@ -593,7 +593,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1878 - 1888
 #SPEZ= D
 #BEME= Berechnete Tafeln aus einer Volums-Formel für den Bereich 4 °C bis 27 °C.
-#BEME= Aus einem Polynom 3-ten Grades wurde der Kehrwert als Polynom 6-ten Grades berechnet.
+#BEME= Aus einem Polynom 3-ten Grades wurde der Kehrwert mit Polynom 6-ten Grades angepasst.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
