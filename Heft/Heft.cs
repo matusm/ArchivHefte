@@ -6,7 +6,7 @@ namespace ArchivHefte
     public class Heft
     {
         public string Signatur { get; set; }
-        public HeftType Type { get; set; }
+        public HeftType Serie { get; set; }
         public string Inhalt { get; set; }
         public string Jahr { get; set; }
         public string Status { get; set; }
@@ -22,7 +22,7 @@ namespace ArchivHefte
 
         public override string ToString() { return $"Heft: {Signatur}"; }
 
-        public string ToLegacyFormat() { return ToLegacyFormat(Type); }
+        public string ToLegacyFormat() { return ToLegacyFormat(Serie); }
 
         public string ToLegacyFormat(HeftType heftType)
         {
@@ -38,7 +38,7 @@ namespace ArchivHefte
             return ToPlainFormat(Signatur);
         }
 
-        public string ToTextFormat() { return ToTextFormat(Type); }
+        public string ToTextFormat() { return ToTextFormat(Serie); }
 
         private string ToPlainFormat(string signatureText)
         {
@@ -68,7 +68,7 @@ namespace ArchivHefte
         /// <returns>The legacy format of the signature string.</returns>
         private string ConvertToLegacySignatur(string signatur)
         {
-            if (Type == HeftType.NS)
+            if (Serie == HeftType.NS)
             {
                 string retString = signatur;
                 retString = retString.Replace("[", "");
