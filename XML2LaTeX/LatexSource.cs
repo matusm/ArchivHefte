@@ -6,25 +6,31 @@ namespace XML2LaTeX
 {
     public class LatexSource
     {
-        private readonly StringBuilder sb = new StringBuilder(); // The place for the complete source
+        private readonly StringBuilder sbLatexSource = new StringBuilder(); // The place for the complete source
         private readonly StringBuilder sbFehlendA = new StringBuilder(); // Die im Archiv fehlenden Hefte allgemeiner Natur        
         private readonly StringBuilder sbFehlendE = new StringBuilder(); // Die im Archiv fehlenden Hefte elektrischer Natur ohne E-Zähler
         private readonly StringBuilder sbChronologie = new StringBuilder();
         private readonly StringBuilder sbSpezialIndex = new StringBuilder();
         private readonly IndexSpezial spezialIndex = new IndexSpezial();
         private readonly IndexChronologie chronoIndex = new IndexChronologie();
-        private bool finalized = false;
+        private bool sourceFinalized = false;
+        private bool preambleCreated = false;
+        private HeftType serie = HeftType.Unknown;
 
         public LatexSource()
         {
-            CreatePreamble();
         }
 
         public void AddHeft(Heft heft)
         {
             // wenn Datei bereits abgeschlossen, tue nichts.
-            if (finalized == true)
+            if (sourceFinalized == true)
                 return;
+            // zu welcher Serie gehörig?
+            serie = heft.Serie;
+            // create Preamble
+            if (!preambleCreated)
+                CreatePreamble();
             // Nehme Heft in Index fehlender Hefte auf
             AddToIndexFehlend(heft);
             // Nehme Heft ins Chronologisch Verzeichnis auf
@@ -54,55 +60,55 @@ namespace XML2LaTeX
                     rightMinipageFormat = @"\begin{minipage}[t]{0.78\textwidth}\vspace{0pt}";
                     break;
             }
-            sb.AppendLine(@"%%%%% " + heft.Signatur + @" %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
-            sb.AppendLine(@"\parbox{\textwidth}{%");
-            sb.AppendLine(@"\rule{\textwidth}{1pt}\vspace*{-3mm}\\");
+            sbLatexSource.AppendLine(@"%%%%% " + heft.Signatur + @" %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+            sbLatexSource.AppendLine(@"\parbox{\textwidth}{%");
+            sbLatexSource.AppendLine(@"\rule{\textwidth}{1pt}\vspace*{-3mm}\\");
             // Signatur
-            sb.AppendLine(leftMinipageFormat);
-            sb.AppendLine(@"\Huge\rule[-4mm]{0cm}{1cm}" + heft.Signatur);
-            sb.AppendLine(@"\end{minipage}");
+            sbLatexSource.AppendLine(leftMinipageFormat);
+            sbLatexSource.AppendLine(@"\Huge\rule[-4mm]{0cm}{1cm}" + heft.Signatur);
+            sbLatexSource.AppendLine(@"\end{minipage}");
             // Titel + Beilagen
-            sb.AppendLine(@"\hfill");
-            sb.AppendLine(rightMinipageFormat);
-            sb.AppendLine(@"\large " + AhEncode(heft.Inhalt) + @"\rule[-2mm]{0mm}{2mm}");
+            sbLatexSource.AppendLine(@"\hfill");
+            sbLatexSource.AppendLine(rightMinipageFormat);
+            sbLatexSource.AppendLine(@"\large " + AhEncode(heft.Inhalt) + @"\rule[-2mm]{0mm}{2mm}");
             if(heft.Beilagen.Count != 0)
             {
-                sb.AppendLine(@"{\footnotesize \\{}");
+                sbLatexSource.AppendLine(@"{\footnotesize \\{}");
                 for (int i = 0; i < heft.Beilagen.Count; i++)
                 {
-                    sb.AppendLine(string.Format("Beilage\\,B{0}: {1}\\\\", i+1 , AhEncode(heft.Beilagen[i])));
+                    sbLatexSource.AppendLine(string.Format("Beilage\\,B{0}: {1}\\\\", i+1 , AhEncode(heft.Beilagen[i])));
                 }
-                sb.AppendLine(@"}");
+                sbLatexSource.AppendLine(@"}");
             }
-            sb.AppendLine(@"\end{minipage}");
+            sbLatexSource.AppendLine(@"\end{minipage}");
             // Sachgebiete
             if (heft.Keys.Count != 0)
             {
-                sb.AppendLine(@"{\footnotesize\flushright");
+                sbLatexSource.AppendLine(@"{\footnotesize\flushright");
                 for (int i = 0; i < heft.Keys.Count; i++)
                 {
-                    sb.AppendLine(string.Format("{0}\\\\", AhEncode(heft.Keys[i])));
+                    sbLatexSource.AppendLine(string.Format("{0}\\\\", AhEncode(heft.Keys[i])));
                 }
-                sb.AppendLine(@"}");
+                sbLatexSource.AppendLine(@"}");
             }
             // Jahr, Amt und Status
-            sb.AppendLine(FormatJahr(heft.Jahr) + @"\quad---\quad " + AhEncode(heft.Organisation) + @"\quad---\quad Heft " + AhEncode(heft.Status) + @"\\");
+            sbLatexSource.AppendLine(FormatJahr(heft.Jahr) + @"\quad---\quad " + AhEncode(heft.Organisation) + @"\quad---\quad Heft " + AhEncode(heft.Status) + @"\\");
             // Bemerkungen
             if (heft.Bemerkungen.Count != 0)
             {
-                sb.AppendLine(@"\textcolor{blue}{Bemerkungen:\\{}");
+                sbLatexSource.AppendLine(@"\textcolor{blue}{Bemerkungen:\\{}");
                 for (int i = 0; i < heft.Bemerkungen.Count; i++)
                 {
-                    sb.AppendLine(string.Format("{0}", AhEncode(heft.Bemerkungen[i])) + @"\\{}");
+                    sbLatexSource.AppendLine(string.Format("{0}", AhEncode(heft.Bemerkungen[i])) + @"\\{}");
                 }
-                sb.AppendLine(@"}");
-                sb.AppendLine(@"\\[-15pt]");
+                sbLatexSource.AppendLine(@"}");
+                sbLatexSource.AppendLine(@"\\[-15pt]");
                 
         }
-            sb.AppendLine(@"\rule{\textwidth}{1pt}");
-            sb.AppendLine(@"}");
-            sb.AppendLine(@"\\");
-            sb.AppendLine(@"\vspace*{-2.5pt}\\");
+            sbLatexSource.AppendLine(@"\rule{\textwidth}{1pt}");
+            sbLatexSource.AppendLine(@"}");
+            sbLatexSource.AppendLine(@"\\");
+            sbLatexSource.AppendLine(@"\vspace*{-2.5pt}\\");
         }
         
         /// <summary>
@@ -112,7 +118,7 @@ namespace XML2LaTeX
         public string Content()
         {
             FinalizeSource();
-            return sb.ToString();
+            return sbLatexSource.ToString();
         }
 
         private void AddToIndexFehlend(Heft heft)
@@ -303,19 +309,19 @@ namespace XML2LaTeX
             switch (signatur)
             {
                 case "[A]":
-                    sb.AppendLine(@"\section{" + Texts.TitleSection1 + @"}");
+                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection1 + @"}");
                     return;
                 case "[LL]":
-                    sb.AppendLine(@"\section{" + Texts.TitleSection2 + @"}");
+                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection2 + @"}");
                     return;
                 case "[AFA]":
-                    sb.AppendLine(@"\section{" + Texts.TitleSection3 + @"}");
+                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection3 + @"}");
                     return;
                 case "[BLA]":
-                    sb.AppendLine(@"\section{" + Texts.TitleSection4 + @"}");
+                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection4 + @"}");
                     return;
                 case "[BRS]":
-                    sb.AppendLine(@"\section{" + Texts.TitleSection5 + @"}");
+                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection5 + @"}");
                     return;
                 default:
                     break;
@@ -330,19 +336,20 @@ namespace XML2LaTeX
 
         private void CreatePreamble()
         {
+            preambleCreated = true;
             // Hauptverzeichnis
-            sb.Clear();
-            finalized = false;
-            sb.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
-            sb.AppendLine(@"% Erzeugt von XML2LaTeX am " + DateTime.UtcNow + @" %");
-            sb.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
-            sb.AppendLine();
-            sb.AppendLine(@"% Diese Datei muss von einer gültigen LaTeX Datei umhüllt werden!");
-            sb.AppendLine();
-            sb.AppendLine(@"\chapter{Verzeichnis der Archiv-Hefte und Vormerkungen}");
+            sbLatexSource.Clear();
+            sourceFinalized = false;
+            sbLatexSource.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+            sbLatexSource.AppendLine(@"% Erzeugt von XML2LaTeX am " + DateTime.UtcNow + @" %");
+            sbLatexSource.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+            sbLatexSource.AppendLine();
+            sbLatexSource.AppendLine(@"% Diese Datei muss von einer gültigen LaTeX Datei umhüllt werden!");
+            sbLatexSource.AppendLine();
+            sbLatexSource.AppendLine(@"\chapter{Verzeichnis der Archiv-Hefte und Vormerkungen}");
             // Index fehlender Hefte, allgemein
             sbFehlendA.Clear();
-            sb.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
+            sbLatexSource.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
             sbFehlendA.AppendLine(@"\chapter{Liste der im Archiv fehlenden Hefte}\label{AHfehlend}");
             sbFehlendA.AppendLine(@"\section{Fehlende Hefte von allgemeinem oder unbekannten Inhalt}");
             sbFehlendA.AppendLine(Texts.AbsatzFehlendAllgemein + @"\\");
@@ -362,20 +369,31 @@ namespace XML2LaTeX
 
         private void FinalizeSource()
         {
-            if (finalized == true)
+            if (sourceFinalized == true)
                 return;
-            CreateSpezial();
+            sbLatexSource.AppendLine();
+            if (serie == HeftType.NS)
+            {
+                CreateSpezial();
+                sbLatexSource.Append(sbSpezialIndex.ToString());
+                sbLatexSource.AppendLine();
+            }
             sbChronologie.Append(chronoIndex.AsText());
-            sb.AppendLine();
-            sb.Append(sbSpezialIndex.ToString());
-            sb.AppendLine();
-            sb.Append(sbChronologie.ToString());
-            sb.AppendLine();
-            sb.Append(sbFehlendA.ToString());
-            sb.AppendLine();
-            sb.Append(sbFehlendE.ToString());
-            sb.AppendLine();
-            finalized = true;
+            sbLatexSource.Append(sbChronologie.ToString());
+            sbLatexSource.AppendLine();
+            if (serie == HeftType.NS)
+            {
+                sbLatexSource.Append(sbFehlendA.ToString());
+                sbLatexSource.AppendLine();
+                sbLatexSource.Append(sbFehlendE.ToString());
+                sbLatexSource.AppendLine();
+            }
+            if(serie==HeftType.AeS)
+            {
+                //TODO
+                sbLatexSource.AppendLine();
+            }
+            sourceFinalized = true;
         }
 
         private void CreateSpezial()
