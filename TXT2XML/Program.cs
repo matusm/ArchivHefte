@@ -42,13 +42,13 @@ namespace TXT2XML
             Console.WriteLine($"{inFilename} parsed.");
 
             // Ältere oder Neue Serie?
-            HeftType heftType = HeftType.AeS;
+            HeftType serie = HeftType.AeS;
 
             // Einlesen und Decodierung der Text-Datei
             List<Heft> hefte = new List<Heft>();
             AhSignatur currentSignatur;
             AhEntry currentHeft = new AhEntry();
-            currentHeft.Type = heftType;
+            currentHeft.Serie = serie;
 
             int numberTextLines = 0;
             string textLine;
@@ -65,9 +65,9 @@ namespace TXT2XML
                         if (!isFirstHeft)
                             hefte.Add(currentHeft.ArchivHeft);
                         isFirstHeft = false;
-                        currentSignatur = new AhSignatur(heftType, textLine.Substring(7));
+                        currentSignatur = new AhSignatur(serie, textLine.Substring(7));
                         currentHeft = new AhEntry(currentSignatur);
-                        currentHeft.Type = heftType;
+                        currentHeft.Serie = serie;
 
                     }
                     // parse attributes for the entity

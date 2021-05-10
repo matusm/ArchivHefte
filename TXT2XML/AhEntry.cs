@@ -18,7 +18,7 @@ namespace TXT2XML
         #endregion
 
         public Heft ArchivHeft => Consolidate();
-        public HeftType Type { get; set; }
+        public HeftType Serie { get; set; }
 
         public AhEntry(AhSignatur sig) : this()
         {
@@ -40,7 +40,7 @@ namespace TXT2XML
         public Heft Consolidate()
         {
             Heft heft = new Heft();
-            heft.Type = Type;
+            heft.Serie = Serie;
             heft.Signatur = ahSignatur.PrettyString;
             heft.Inhalt = ahInhalt.Inhalt;
             heft.Jahr = ahYear.AsString;
