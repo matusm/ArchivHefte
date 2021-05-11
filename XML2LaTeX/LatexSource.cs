@@ -306,25 +306,28 @@ namespace XML2LaTeX
 
         private void InVerzeichnisHeft(string signatur)
         {
-            switch (signatur)
+            if (serie == HeftType.NS)
             {
-                case "[A]":
-                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection1 + @"}");
-                    return;
-                case "[LL]":
-                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection2 + @"}");
-                    return;
-                case "[AFA]":
-                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection3 + @"}");
-                    return;
-                case "[BLA]":
-                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection4 + @"}");
-                    return;
-                case "[BRS]":
-                    sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection5 + @"}");
-                    return;
-                default:
-                    break;
+                switch (signatur)
+                {
+                    case "[A]":
+                        sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection1 + @"}");
+                        return;
+                    case "[LL]":
+                        sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection2 + @"}");
+                        return;
+                    case "[AFA]":
+                        sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection3 + @"}");
+                        return;
+                    case "[BLA]":
+                        sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection4 + @"}");
+                        return;
+                    case "[BRS]":
+                        sbLatexSource.AppendLine(@"\section{" + Texts.TitleSection5 + @"}");
+                        return;
+                    default:
+                        break;
+                }
             }
         }
 
@@ -345,26 +348,29 @@ namespace XML2LaTeX
             sbLatexSource.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
             sbLatexSource.AppendLine();
             sbLatexSource.AppendLine(@"% Diese Datei muss von einer gültigen LaTeX Datei umhüllt werden!");
+            sbLatexSource.AppendLine($@"% Serie: {serie}");
             sbLatexSource.AppendLine();
             sbLatexSource.AppendLine(@"\chapter{Verzeichnis der Archiv-Hefte und Vormerkungen}");
+
             // Index fehlender Hefte, allgemein
             sbFehlendA.Clear();
-            sbLatexSource.AppendLine(@"%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%");
             sbFehlendA.AppendLine(@"\chapter{Liste der im Archiv fehlenden Hefte}\label{AHfehlend}");
-            sbFehlendA.AppendLine(@"\section{Fehlende Hefte von allgemeinem oder unbekannten Inhalt}");
+            if(serie==HeftType.NS) sbFehlendA.AppendLine(@"\section{Fehlende Hefte von allgemeinem oder unbekannten Inhalt}");
             sbFehlendA.AppendLine(Texts.AbsatzFehlendAllgemein + @"\\");
             sbFehlendA.AppendLine(@"\\{}");
             // Index fehlender Hefte, Elektrizität
             sbFehlendE.Clear();
-            sbFehlendE.AppendLine(@"\section{Fehlende Hefte elektrische Messungen betreffend.}");
-            sbFehlendE.AppendLine(Texts.AbsatzFehlendElektrisch+ @"\\");
-            sbFehlendE.AppendLine(@"\\{}");
+            if (serie == HeftType.NS) sbFehlendE.AppendLine(@"\section{Fehlende Hefte elektrische Messungen betreffend.}");
+            if (serie == HeftType.NS) sbFehlendE.AppendLine(Texts.AbsatzFehlendElektrisch+ @"\\");
+            if (serie == HeftType.NS) sbFehlendE.AppendLine(@"\\{}");
+
             // Spezialverzeichnis
             sbSpezialIndex.Clear();
             sbSpezialIndex.AppendLine(@"\chapter{Themen des Spezialverzeichnises}");
+
             // Chronologisches Verzeichnis
             sbChronologie.Clear();
-            sbChronologie.AppendLine(@"\chapter{Chronologisches Verzeichnises}");
+            sbChronologie.AppendLine(@"\chapter{Chronologisches Verzeichnis}");
         }
 
         private void FinalizeSource()
@@ -372,7 +378,7 @@ namespace XML2LaTeX
             if (sourceFinalized == true)
                 return;
             sbLatexSource.AppendLine();
-            if (serie == HeftType.NS)
+            //if (serie == HeftType.NS)
             {
                 CreateSpezial();
                 sbLatexSource.Append(sbSpezialIndex.ToString());
@@ -390,7 +396,7 @@ namespace XML2LaTeX
             }
             if(serie==HeftType.AeS)
             {
-                //TODO
+                sbLatexSource.Append(sbFehlendA.ToString()); // es gibt keine Hefte elektrischer Natur
                 sbLatexSource.AppendLine();
             }
             sourceFinalized = true;
