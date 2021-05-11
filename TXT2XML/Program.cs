@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using ArchivHefte;
-using Bev.UI;
 using System.IO;
 using System.Xml.Serialization;
 using System;
@@ -14,8 +13,17 @@ namespace TXT2XML
         {
             Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
 
+
+            //string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
+            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
+            string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
+            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
+
+            // Ältere oder Neue Serie?
+            HeftType serie = HeftType.AeS;
+
+
             #region File name logic
-            string defaultFileName = "/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS";
             string baseInFileName = "";
             string baseOutFileName = "";
             if(args==null || args.Length==0)
@@ -39,11 +47,6 @@ namespace TXT2XML
 
             #region Reading and parsing the TXT-file
 
-            Console.WriteLine($"{inFilename} parsed.");
-
-            // Ältere oder Neue Serie?
-            HeftType serie = HeftType.AeS;
-
             // Einlesen und Decodierung der Text-Datei
             List<Heft> hefte = new List<Heft>();
             AhSignatur currentSignatur;
@@ -53,6 +56,7 @@ namespace TXT2XML
             int numberTextLines = 0;
             string textLine;
             bool isFirstHeft = true;
+
             StreamReader hTxtFile = File.OpenText(inFilename);
             while ((textLine = hTxtFile.ReadLine()) != null)
             {
@@ -68,7 +72,6 @@ namespace TXT2XML
                         currentSignatur = new AhSignatur(serie, textLine.Substring(7));
                         currentHeft = new AhEntry(currentSignatur);
                         currentHeft.Serie = serie;
-
                     }
                     // parse attributes for the entity
                     currentHeft.ParseAttributes(textLine);
@@ -81,9 +84,9 @@ namespace TXT2XML
 
             #endregion
 
-            //ConsoleUI.WriteLine();
-            //ConsoleUI.WriteLine($"{numberTextLines} Zeilen in Datei {inFilename} -> {hefte.Count} Hefte");
-            //ConsoleUI.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine($"{numberTextLines} Zeilen in Datei {inFilename} -> {hefte.Count} Hefte");
+            Console.WriteLine();
 
             #region Writing XML-file
 
