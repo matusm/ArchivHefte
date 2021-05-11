@@ -80,13 +80,10 @@ namespace TXT2XML
             // the last entity must be added to the collection
             hefte.Add(currentHeft.ArchivHeft);
             hTxtFile.Close();
-            //ConsoleUI.Done();
 
-            #endregion
-
-            Console.WriteLine();
             Console.WriteLine($"{numberTextLines} Zeilen in Datei {inFilename} -> {hefte.Count} Hefte");
-            Console.WriteLine();
+            
+            #endregion
 
             #region Writing XML-file
 
