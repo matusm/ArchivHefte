@@ -2959,6 +2959,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #SPEZ= N
 #BEME= Verweis auf [LO] und [LT].
 #STAT= im Archiv.
+#BEOB= Petersburg
 #ORGA= NEK
 #MARK= 
 ****************************************
@@ -13547,7 +13548,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #INHA= Quadratische Interpolation von Zehntel zu Zehntelgrad der Lesung für die Korrektionstafeln der Alkoholometer-Gebrauchsnormale: 141a, 141b, 141c, 146a, 145b, 145c.
 #JAHR= 1924
 #SPEZ= A
-#BEME= Vom Bearbeiter wiederaufgefunden (vorher ein Entlehnzettel von Dr. Quas auf einen Befundschein des AEW.) Das Heft enthält im Wesentlichen die umfangreichen Ausgleichsrechnungen aber auch alte Korrektionstafeln von (anderen) Alkoholometern (Mit Stempel der Normal-Aichungs-Commission).
+#BEME= Vom Bearbeiter wiederaufgefunden (vorher ein Entlehnzettel von Dr. Quas auf einen Befundschein des AEW). Das Heft enthält im Wesentlichen die umfangreichen Ausgleichsrechnungen aber auch alte Korrektionstafeln von (anderen) Alkoholometern (Mit Stempel der Normal-Aichungs-Commission).
 #STAT= im Archiv.
 #ORGA= BEV
 #MARK= 
@@ -13713,7 +13714,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #MARK= 
 ****************************************
 #HEFT= [BMR]
-#INHA= Zusatzeinrichtung zum Amagatapparat für Verwendung von Wasser als druckfortplanzendes Medium.
+#INHA= Zusatzeinrichtung zum Amagatapparat für Verwendung von Wasser als druckfortplanzendes Medium. 
 #JAHR= 1928
 #SPEZ= M
 #BEME= Achtung: Eintrag im Verzeichnis stimmt nicht mit Heft überein! Für die Prüfung von Manometern für Sauerstoffflaschen durfte kein Öl verwendet werden, daher wurde der Apparat auf Wasserbetrieb umgebaut. Mit Erläuterung und Zeichnung. Als Umschlag handkolorierter Katasterplan von 1826. Im Jahr 2008 wurde das dem Eintrag entsprechende Heft aufgefunden! Darin der Beglaubigungschein der PTR aus 1928 im Original.
@@ -14065,7 +14066,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #INHA= Versuche zur Einrichtung einer Prüfanlage für Feuchtigkeitsmeßgeräte.
 #JAHR= 1937
 #SPEZ= FU
-#BEME= Sehr genaue Beschreibung (mit Zeichnungen) wie man sich so eine Vorrichtung vorgestellt hat. Mit Diagrammen zur Luftfeuchte über Wasser-Schwefelsäure-Gemischen.
+#BEME= Sehr genaue Beschreibung (mit Zeichnungen) wie man sich so eine Vorrichtung vorgestellt hat. Mit Diagrammen zur Luftfeuchte über Wasser-Schwefelsäure-Gemischen. Vergleichsmessungen an verschiedenen praktischen Ausführungen.
 #STAT= im Archiv.
 #ORGA= BEV
 #MARK= 
@@ -14358,7 +14359,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #JAHR= 1941
 #SPEZ= Z
 #BEME= Im Heft die Prüfungsscheine von 8 Getreideprobern im Original, eine Bekanntmachung über Vergleichstafeln für Getreideprober sowie Journale und Auswertungen über die Differenzen dieser Geräte zwischen Altreich und Ostmark. Im Archiv ursprünglich lediglich ein Entlehnzettel, Heft im Jahr 2008 wieder aufgefunden.
-#STAT= fehlt!
+#STAT= im Archiv.
 #ORGA= AEW
 #MARK= 
 ****************************************
@@ -14721,6 +14722,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #JAHR= 1950
 #SPEZ= T
 #BEME= Jedes Thermometer besitzt einen Skalenumfang von 6 °C mit einer Teilung von 0,01 °C. Sie wurden sowohl kalibriert (im Sinne der Thermometrie) als auch mit verschiedenen Normalen zwischen 13 °C und 33 °C verglichen. Die Beschreibung der Messungen und deren Auswertung ist sehr ausführlich. Im Heft ist auch noch älteres Material aus 1924 und 1927.
+#BEME= Bemerkenswert sind auch die verwendeten Formulare.
 #STAT= im Archiv.
 #ORGA= BEV
 #MARK= 
@@ -14764,6 +14766,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #JAHR= 1950
 #SPEZ= X
 #BEME= Vier Kalibrierscheine über die Farbtemperatur (teilweise auch für Lichtstärke und Lichtstrom) bei verschiedenen Betriebsbedingungen. Die Lampen befinden sich noch heute im BEV. Diese Kalibrierscheine wurden erst 2001 von Michael Matus wieder aufgefunden und in das Archiv eingereiht. Vorher nur ein Entlehnzettel: "BRK, Photometrie (Dipl.Ing. Rotter) 28.2.1953"
+#BEME= Kalibrierung erfolgte teilweise visuell mit Lummer-Brodhun-Photometer, Teilweise mit einer gefilterten Thermosäule.
 #STAT= im Archiv.
 #ORGA= BEV
 #MARK= 

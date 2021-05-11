@@ -6104,7 +6104,9 @@
     <Organisation>NEK</Organisation>
     <KeysCode>N</KeysCode>
     <Beilagen />
-    <Bearbeiter />
+    <Bearbeiter>
+      <string>Petersburg</string>
+    </Bearbeiter>
     <Bemerkungen>
       <string>Verweis auf [LO] und [LT].</string>
     </Bemerkungen>
@@ -28546,7 +28548,7 @@
     <Beilagen />
     <Bearbeiter />
     <Bemerkungen>
-      <string>Vom Bearbeiter wiederaufgefunden (vorher ein Entlehnzettel von Dr. Quas auf einen Befundschein des AEW.) Das Heft enthält im Wesentlichen die umfangreichen Ausgleichsrechnungen aber auch alte Korrektionstafeln von (anderen) Alkoholometern (Mit Stempel der Normal-Aichungs-Commission).</string>
+      <string>Vom Bearbeiter wiederaufgefunden (vorher ein Entlehnzettel von Dr. Quas auf einen Befundschein des AEW). Das Heft enthält im Wesentlichen die umfangreichen Ausgleichsrechnungen aber auch alte Korrektionstafeln von (anderen) Alkoholometern (Mit Stempel der Normal-Aichungs-Commission).</string>
     </Bemerkungen>
     <Markierung />
     <Keys>
@@ -29664,7 +29666,7 @@
     <Beilagen />
     <Bearbeiter />
     <Bemerkungen>
-      <string>Sehr genaue Beschreibung (mit Zeichnungen) wie man sich so eine Vorrichtung vorgestellt hat. Mit Diagrammen zur Luftfeuchte über Wasser-Schwefelsäure-Gemischen.</string>
+      <string>Sehr genaue Beschreibung (mit Zeichnungen) wie man sich so eine Vorrichtung vorgestellt hat. Mit Diagrammen zur Luftfeuchte über Wasser-Schwefelsäure-Gemischen. Vergleichsmessungen an verschiedenen praktischen Ausführungen.</string>
     </Bemerkungen>
     <Markierung />
     <Keys>
@@ -30285,7 +30287,7 @@
     <Serie>NS</Serie>
     <Inhalt>Prüfungsschein der PTR für die Getreideprober Gebrauchs-Normale.</Inhalt>
     <Jahr>1941</Jahr>
-    <Status>fehlt!</Status>
+    <Status>im Archiv.</Status>
     <Organisation>AEW</Organisation>
     <KeysCode>Z</KeysCode>
     <Beilagen />
@@ -31068,6 +31070,7 @@
     <Bearbeiter />
     <Bemerkungen>
       <string>Jedes Thermometer besitzt einen Skalenumfang von 6 °C mit einer Teilung von 0,01 °C. Sie wurden sowohl kalibriert (im Sinne der Thermometrie) als auch mit verschiedenen Normalen zwischen 13 °C und 33 °C verglichen. Die Beschreibung der Messungen und deren Auswertung ist sehr ausführlich. Im Heft ist auch noch älteres Material aus 1924 und 1927.</string>
+      <string>Bemerkenswert sind auch die verwendeten Formulare.</string>
     </Bemerkungen>
     <Markierung />
     <Keys>
@@ -31159,6 +31162,7 @@
     <Bearbeiter />
     <Bemerkungen>
       <string>Vier Kalibrierscheine über die Farbtemperatur (teilweise auch für Lichtstärke und Lichtstrom) bei verschiedenen Betriebsbedingungen. Die Lampen befinden sich noch heute im BEV. Diese Kalibrierscheine wurden erst 2001 von Michael Matus wieder aufgefunden und in das Archiv eingereiht. Vorher nur ein Entlehnzettel: "BRK, Photometrie (Dipl.Ing. Rotter) 28.2.1953"</string>
+      <string>Kalibrierung erfolgte teilweise visuell mit Lummer-Brodhun-Photometer, Teilweise mit einer gefilterten Thermosäule.</string>
     </Bemerkungen>
     <Markierung />
     <Keys>

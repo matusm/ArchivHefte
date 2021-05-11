@@ -7,6 +7,9 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #INHA= Bestimmung des aboluten Werthes und der Dilatation der fünf Meter: H, m_3, s_3, M_4 und St auf Grund der Beobachtungen in Heft [M.9] ä.S. Notizen über den Stab "J" des k.k. geogrf. Institutes.
 #JAHR= 1876
 #SPEZ= L
+#BEME= Die Messungen wurden bei Temperaturen zwischen 9 °C und 24 °C durchgeführt.
+#BEME= Über den Messingmeterstab ist lediglich ein kleiner Zettel eingeheftet.
+#BEME= Briefwechsel zwischen Marek und Herr Aus 1880 über die Übersendung eines Mastabes an das BIPM. Auf Briefpapier des BIPM. Hinweis auf eine Erkrankung Herrs.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -110,15 +113,6 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #ORGA= NEK
 #MARK= 
 ****************************************
-#HEFT= [T.1]
-#INHA= 1. Erste Vergleichung der Thermometer Greiner n° 1, 2, 3, 4 mit den Normal-Thermometer. 2. Erste Vergleichung der Thermometer Kappeller n° 5, 6, 7, u. 8 mit dem Normal-Thermometer. 3. Diverse Eispunkt-Bestimmungen.
-#JAHR= 1872
-#SPEZ= T
-#BEME= Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung ist aber sichtbar.
-#STAT= im Archiv.
-#ORGA= NEK
-#MARK= 
-****************************************
 #HEFT= [M.12]
 #INHA= Bestimmung der Länge und Ausdehnung der Stäbe "a" und "H". Originalzahlen zu den "Travaux et Memoires du Bureau internationales des Poids at Mesures, Tom III pag. C30 et suiv."
 #JAHR= 1883
@@ -153,6 +147,15 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #SPEZ= L
 #BEME= Im Heft ein Blatt mit den Beobachtungen sowie eine in roter Tinte geschriebene Bemerkung aus 1888. Dort auch Verweise auf [M.9], [M.7], [M.1] und [M] (?).
 #BEME= Statt wie im Titel a_1 bis a_10 ist in der Bemerkung von A_1 bis A_10 die Rede.
+#STAT= im Archiv.
+#ORGA= NEK
+#MARK= 
+****************************************
+#HEFT= [T.1]
+#INHA= 1. Erste Vergleichung der Thermometer Greiner n° 1, 2, 3, 4 mit den Normal-Thermometer. 2. Erste Vergleichung der Thermometer Kappeller n° 5, 6, 7, u. 8 mit dem Normal-Thermometer. 3. Diverse Eispunkt-Bestimmungen.
+#JAHR= 1872
+#SPEZ= T
+#BEME= Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung ist aber sichtbar.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -507,12 +510,12 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 ****************************************
 #HEFT= [23]
 #INHA= Mineralöl-Aräometer für Zoll-Aemter.
-#BEIL= 1
-#BEIL= 2
-#BEIL= 3
-#BEIL= 4
-#BEIL= 5
-#BEIL= 6
+#BEIL= 1 Vorschrift betreffend der Justierung, Aichung und Verwendung der Aräometer zur Bestimmung der Dichte von Mineralölen.
+#BEIL= 2 Dichtebestimmung von Dr. Moser.
+#BEIL= 3 Tafeln für Temperaturen zwischen 0 und 25 °C.
+#BEIL= 4 Tafeln für 12 °R.
+#BEIL= 5 Neue Ableitung der Tafeln.
+#BEIL= 6 Reduktion der Marekschen Wägungen der Mineralöle.
 #BEIL= 7 Beilage zu den steographische Protokollen des Abgeordnetenhauses sowie Bemerkungen zur Mineralöl-Besteuerung.
 #BEIL= 8 Anweisung zum Gebrauche des Aräometers und der zugehörigen Reduktionstabelle zur Bestimmung der Dichte der Mineralöle
 #JAHR= 1877 - 1891

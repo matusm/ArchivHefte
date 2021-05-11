@@ -16,8 +16,8 @@ namespace TXT2XML
 
             //string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
             // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
-            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
-            string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
+            //string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
+             string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
 
             // Ältere oder Neue Serie?
             HeftType serie = HeftType.NS;
