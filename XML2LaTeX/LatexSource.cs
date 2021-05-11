@@ -300,7 +300,7 @@ namespace XML2LaTeX
 
         private bool Elektrisches(Heft heft)
         {
-            if (heft.KeysCode.Contains("E") || !heft.KeysCode.Contains("e")) return true;
+            if (heft.KeysCode.Contains("E") || heft.KeysCode.Contains("e")) return true;
             return false;
         }
 

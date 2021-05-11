@@ -12,8 +12,12 @@ namespace XML2LaTeX
         {
             Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
 
+            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
+            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
+             string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
+            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
+
             #region File name logic
-            string defaultFileName = "/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS";
             string baseInFileName = "";
             string baseOutFileName = "";
             if(args==null || args.Length==0)
@@ -41,9 +45,13 @@ namespace XML2LaTeX
 
             // nothing found -> exit
             if (data.NumberOfHefte == 0)
-                ConsoleUI.ErrorExit("No data found", 1);
+            {
+                Console.WriteLine("Keine Daten gefunden!");
+                Environment.Exit(1);
 
-            LatexSource latexSource = new LatexSource(); // this writes the preamble
+            }
+
+            LatexSource latexSource = new LatexSource();
 
             foreach (Heft h in data.Hefte)
             {
