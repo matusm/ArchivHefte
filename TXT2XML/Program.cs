@@ -14,13 +14,17 @@ namespace TXT2XML
             Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
 
 
-            //string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
+            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
             // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
-            //string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
-             string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
+              string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
+            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
 
             // Ältere oder Neue Serie?
-            HeftType serie = HeftType.NS;
+            HeftType serie = HeftType.Unknown;
+            if(defaultFileName.Contains("_NS"))
+                serie = HeftType.NS;
+            if (defaultFileName.Contains("_AeS"))
+                serie = HeftType.AeS;
 
 
             #region File name logic
