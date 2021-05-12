@@ -1046,12 +1046,12 @@
     <Organisation>NEK</Organisation>
     <KeysCode>C</KeysCode>
     <Beilagen>
-      <string>1</string>
-      <string>2</string>
-      <string>3</string>
-      <string>4</string>
-      <string>5</string>
-      <string>6</string>
+      <string>1 Vorschrift betreffend der Justierung, Aichung und Verwendung der Aräometer zur Bestimmung der Dichte von Mineralölen.</string>
+      <string>2 Dichtebestimmung von Dr. Moser.</string>
+      <string>3 Tafeln für Temperaturen zwischen 0 und 25 °C.</string>
+      <string>4 Tafeln für 12 °R.</string>
+      <string>5 Neue Ableitung der Tafeln.</string>
+      <string>6 Reduktion der Marekschen Wägungen der Mineralöle.</string>
       <string>7 Beilage zu den steographische Protokollen des Abgeordnetenhauses sowie Bemerkungen zur Mineralöl-Besteuerung.</string>
       <string>8 Anweisung zum Gebrauche des Aräometers und der zugehörigen Reduktionstabelle zur Bestimmung der Dichte der Mineralöle</string>
     </Beilagen>
