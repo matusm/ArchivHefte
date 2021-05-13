@@ -16,6 +16,8 @@
         /// </summary>
         public static string AbsatzFehlendElektrisch => @"Die große Anzahl in dieser Kategorie lässt vermuten, dass diese Hefte im Zuge einer Organisationsänderung in ein entsprechendes Archiv einer anderen Abteilung (früher E3, jetzt E1) eingegliedert wurden und dort verloren gegangen sind. Relativ häufig werden Systemprüfungen (im heutigen Sprachgebrauch: Zulassungsprüfungen) an Elektrizitätszählern behandelt.";
 
+        public static string AbsatzFehlendAeS => @"Diese Hefte konnten in den beiden Archivschachteln nicht mehr aufgefunden werden";
+
         public static string TitleSection1 => @"Einträge aus dem Haupt-Verzeichnis, 1. Heft";
         public static string TitleSection2 => @"Einträge aus dem Haupt-Verzeichnis, 2. Heft";
         public static string TitleSection3 => @"Einträge aus dem Haupt-Verzeichnis, 3. Heft";
