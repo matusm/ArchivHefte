@@ -355,14 +355,21 @@ namespace XML2LaTeX
             // Index fehlender Hefte, allgemein
             sbFehlendA.Clear();
             sbFehlendA.AppendLine(@"\chapter{Liste der im Archiv fehlenden Hefte}\label{AHfehlend}");
-            if(serie==HeftType.NS) sbFehlendA.AppendLine(@"\section{Fehlende Hefte von allgemeinem oder unbekannten Inhalt}");
-            sbFehlendA.AppendLine(Texts.AbsatzFehlendAllgemein + @"\\");
+            if (serie == HeftType.NS)
+            {
+                sbFehlendA.AppendLine(@"\section{Fehlende Hefte von allgemeinem oder unbekannten Inhalt}");
+                sbFehlendA.AppendLine(Texts.AbsatzFehlendAllgemein + @"\\");
+                sbFehlendA.AppendLine(@"\\{}");
+                // Index fehlender Hefte, Elektrizität
+                sbFehlendE.Clear();
+                sbFehlendE.AppendLine(@"\section{Fehlende Hefte elektrische Messungen betreffend.}");
+                sbFehlendE.AppendLine(Texts.AbsatzFehlendElektrisch + @"\\");
+            }
+            if (serie == HeftType.AeS)
+            {
+                sbFehlendA.AppendLine(Texts.AbsatzFehlendAeS + @"\\");
+            }
             sbFehlendA.AppendLine(@"\\{}");
-            // Index fehlender Hefte, Elektrizität
-            sbFehlendE.Clear();
-            if (serie == HeftType.NS) sbFehlendE.AppendLine(@"\section{Fehlende Hefte elektrische Messungen betreffend.}");
-            if (serie == HeftType.NS) sbFehlendE.AppendLine(Texts.AbsatzFehlendElektrisch+ @"\\");
-            if (serie == HeftType.NS) sbFehlendE.AppendLine(@"\\{}");
 
             // Spezialverzeichnis
             sbSpezialIndex.Clear();
