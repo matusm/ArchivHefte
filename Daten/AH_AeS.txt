@@ -9,7 +9,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #SPEZ= L
 #BEME= Die Messungen wurden bei Temperaturen zwischen 9 °C und 24 °C durchgeführt.
 #BEME= Über den Messingmeterstab ist lediglich ein kleiner Zettel eingeheftet.
-#BEME= Briefwechsel zwischen Marek und Herr Aus 1880 über die Übersendung eines Mastabes an das BIPM. Auf Briefpapier des BIPM. Hinweis auf eine Erkrankung Herrs.
+#BEME= Briefwechsel zwischen Marek und Herr aus 1880 über die Übersendung eines Mastabes an das BIPM. Auf Briefpapier des BIPM. Hinweis auf eine Erkrankung Herrs.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -421,7 +421,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #JAHR= 1874 - 1875
 #SPEZ= W
 #BEME= Auf dieses Heft wird unter anderen in den Heften [4] [5] [6] [7] [8] [9] verwiesen.
-#BEME= Wird auch unter der Signatur U geführt.
+#BEME= Wird auch unter der Signatur [U] geführt.
 #BEME= Autor ist Marek
 #STAT= im Archiv.
 #ORGA= NEK
@@ -585,8 +585,8 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #INHA= Zur Herstellung der ersten Alkoholometer-Skalennetze auf Grundlage von [AV]. (Vergleiche auch [AW]).
 #JAHR= 1874
 #SPEZ= A
-#BEME= Grundlagen für Volle Skalen, Skalen von 0 - 72 % und Skalen von 60 % - 100 %.
-#BEME= Im Heft auch drei Skalennetze auf starken Karton gezeichnet.
+#BEME= Grundlagen für volle Skalen, Skalen von 0 - 72 % und Skalen von 60 % - 100 %.
+#BEME= Im Heft auch drei Skalennetze auf starkem Karton gezeichnet.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -656,7 +656,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #SPEZ= Wp
 #BEME= Beschreibung der Messungen und der Geräte.
 #BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.
-#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.
+#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2023) bei Michael Matus.
 #BEOB= Petersburg
 #STAT= im Archiv.
 #ORGA= NEK
@@ -668,7 +668,7 @@ Erzeugt am 07.05.2021 14:10:48 durch XML2TXT
 #SPEZ= Wp
 #BEME= Im Heft Beschreibung und Zeichnungen über Funktionsweise und Konstruktion eines Halteapparates. Auf Deutsch und Französisch.
 #BEME= Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.
-#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2021) bei Michael Matus.
+#BEME= Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2023) bei Michael Matus.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
