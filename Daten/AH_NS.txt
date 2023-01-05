@@ -2348,6 +2348,7 @@ Update am 05.01.2023
 #JAHR= 1889
 #SPEZ= T
 #BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -2357,6 +2358,7 @@ Update am 05.01.2023
 #JAHR= 1889
 #SPEZ= T
 #BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -2366,6 +2368,7 @@ Update am 05.01.2023
 #JAHR= 1889
 #SPEZ= T
 #BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -2375,6 +2378,8 @@ Update am 05.01.2023
 #JAHR= 1889
 #SPEZ= T
 #BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Heft wurde gescant und transkribiert.
+#BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
@@ -2383,6 +2388,9 @@ Update am 05.01.2023
 #INHA= Vergleichung der Thermometer: Kappeller n°5, Alvergniat n°45260, 38801, 38803 und Richter n°2532, 2533 und 2534 mit den Thermometern: Tonnelot n°4341, 4342, 4343, 4344 und 4639.
 #JAHR= 1889
 #SPEZ= T
+#BEME= Beschrieben ist die Vergleichung (Kalibrierung) der Arbeitsnormale von Kapeller, Alvergniat und Richter mit den höheren Normalen von Tonnelot. Diese wurden 1888 am BIPM aufwändig kalibriert.
+#BEME= Heft teilweise gescant und transkribiert. Von den zahlreichen Formularen "Thermometer-Vergleichung" wurde lediglich das erste gescant.
+#BEME= Referenziert auf Hefte [KB], [IV], [IW], [IX], [IY], [IF], [IG], [IT], [GR], [DQ], [CS], [DU], [GP], [KC], [KD], [KE], [KF], [KG], [KH].
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
