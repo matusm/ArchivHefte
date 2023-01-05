@@ -2,6 +2,7 @@
 XML Datei: AH_NS.xml
 Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 1725 Archivhefte der NS
+Update am 05.01.2023
 ****************************************
 #HEFT= [A]
 #INHA= Etalonierung des Gewichts-Einsatzes "E" und Haupt-Normal-Einsätze n° 1-10 von 1-10 kg
@@ -733,6 +734,7 @@ Erzeugt am 07.05.2021 14:10:56 durch XML2TXT
 #BEIL= Bestimmung der Konstanten für die obengenannten Thermometer.
 #JAHR= 1885
 #SPEZ= T
+#BEME= Heft eingescannt und transkribiert.
 #BEME= Zitiert auf Seite 258 in: W. Marek, "Das österreichische Saccharometer", Wien 1906. In diesem Buch auch Zitate zu den Heften: [O] [Q] [T] [U] [V] [W] [AO] [AZ] [CM] [CN] [CO] [FS] [GL] [SC] [ST] [TW] [WY] [ZN] [AET] [AFY] [AKE] [AKK] [AKJ] [AKL] [AKN] [AKT] [ALG] [AMM] [AMN] [AUG] [BBM]
 #STAT= im Archiv.
 #ORGA= NEK
