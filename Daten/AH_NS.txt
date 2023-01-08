@@ -735,6 +735,7 @@ Update am 05.01.2023
 #JAHR= 1885
 #SPEZ= T
 #BEME= Heft eingescannt und transkribiert.
+#BEME= Beschreibt die Rückführung der an der NEK durchgeführten Temperaturmessungen. Das Normal war zu ursprünglich das sogennante Normalthermometer (N.T.) welches in Besitz des polytechnischen Institutes (heute TU-Wien) war. Es werden penibel die Vergleichsmessungen mit den Thermometern 2ter Ordnung beschrieben. 
 #BEME= Zitiert auf Seite 258 in: W. Marek, "Das österreichische Saccharometer", Wien 1906. In diesem Buch auch Zitate zu den Heften: [O] [Q] [T] [U] [V] [W] [AO] [AZ] [CM] [CN] [CO] [FS] [GL] [SC] [ST] [TW] [WY] [ZN] [AET] [AFY] [AKE] [AKK] [AKJ] [AKL] [AKN] [AKT] [ALG] [AMM] [AMN] [AUG] [BBM]
 #STAT= im Archiv.
 #ORGA= NEK
@@ -2347,7 +2348,8 @@ Update am 05.01.2023
 #INHA= Korrektions-Tafel des Thermometers: Tonnelot n°4341.
 #JAHR= 1889
 #SPEZ= T
-#BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Das Heft enthält eine Einleitung, ein ausführliches Zertifikat des BIPM (4 gedruckte Seiten mit handschriftlichen Werten) und einem gedruckten und gebundenen Anhang dazu. Weiters sind die handschriftlichen Protokolle der Kalibrierung (der Kapillare) des BIPM beigefügt. Endlich die an der NEK berechnten "definitiven Corrections-Tafel". Auf Milimeterpapier ist die Fehlerkurve gezeichnet.
+#BEME= Die Einleitung lautet: "Das Thermometer Tonnelot n°4341 aus Tonnelot's Hartglas verfertigt, ist eines von jenen, welche mit den internationalen Prototypen des Meter und Kilogrammes gleichzeitig aus Paris mitgebracht wurden. Der Zweck der Berechnung der Corrections-Tafeln ist in der Einleitung des Heftes [IF] angegeben."
 #BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
@@ -2357,7 +2359,7 @@ Update am 05.01.2023
 #INHA= Korrektions-Tafel des Thermometers: Tonnelot n°4342
 #JAHR= 1889
 #SPEZ= T
-#BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Das Heft enthält eine Einleitung, ein ausführliches Zertifikat des BIPM (4 gedruckte Seiten mit handschriftlichen Werten) und einem gedruckten und gebundenen Anhang dazu. Weiters sind die handschriftlichen Protokolle der Kalibrierung (der Kapillare) des BIPM beigefügt. Endlich die an der NEK berechnten "definitiven Corrections-Tafel". Auf Milimeterpapier ist die Fehlerkurve gezeichnet.
 #BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
@@ -2367,7 +2369,7 @@ Update am 05.01.2023
 #INHA= Korrektions-Tafel des Thermometers: Tonnelot n°4343.
 #JAHR= 1889
 #SPEZ= T
-#BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Das Heft enthält eine Einleitung, ein ausführliches Zertifikat des BIPM (4 gedruckte Seiten mit handschriftlichen Werten) und einem gedruckten und gebundenen Anhang dazu. Weiters sind die handschriftlichen Protokolle der Kalibrierung (der Kapillare) des BIPM beigefügt. Endlich die an der NEK berechnten "definitiven Corrections-Tafel". Auf Milimeterpapier ist die Fehlerkurve gezeichnet.
 #BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
@@ -2377,8 +2379,9 @@ Update am 05.01.2023
 #INHA= Korrektions-Tafel des Thermometers: Tonnelot n°4344.
 #JAHR= 1889
 #SPEZ= T
-#BEME= Mit ausführlichem Zertifikat des BIPM und einem gedruckten und gebundenen Anhang dazu.
+#BEME= Das Heft enthält eine Einleitung, ein ausführliches Zertifikat des BIPM (4 gedruckte Seiten mit handschriftlichen Werten) und einem gedruckten und gebundenen Anhang dazu. Weiters sind die handschriftlichen Protokolle der Kalibrierung (der Kapillare) des BIPM beigefügt. Endlich die an der NEK berechnten "definitiven Corrections-Tafel". Auf Milimeterpapier ist die Fehlerkurve gezeichnet.
 #BEME= Heft wurde gescant und transkribiert.
+#BEME= Die Einleitung lautet: "Das Thermometer Tonnelot n°4344 aus Tonnelot's Hartglas verfertigt, ist eines von jenen, welche mit den internationalen Prototypen des Meter und Kilogrammes gleichzeitig aus Paris mitgebracht wurden. Der Zweck der Berechnung der Corrections-Tafeln ist in der Einleitung des Heftes [IF] angegeben."
 #BEME= Referenziert auf das Heft [IF].
 #STAT= im Archiv.
 #ORGA= NEK
@@ -2396,7 +2399,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KA]
-#INHA= Etalonierung des Kontrol-Normal-Einsatzes n° 10401 für Gewichte von 500 g - 1 g.
+#INHA= Etalonierung des Kontrol-Normal-Einsatzes n°10401 für Gewichte von 500 g - 1 g.
 #JAHR= 1889
 #SPEZ= W
 #STAT= im Archiv.
@@ -2404,7 +2407,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KB]
-#INHA= Etalonierung des Thermometers: Kappeller n° 5. Inv.n° 828.
+#INHA= Etalonierung des Thermometers: Kappeller n°5. Inv.n° 828.
 #JAHR= 1889
 #SPEZ= T
 #STAT= im Archiv.
@@ -2412,7 +2415,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KC]
-#INHA= Etalonierung des Thermometers: Alvergniat n° 45260.
+#INHA= Etalonierung des Thermometers: Alvergniat n°45260.
 #JAHR= 1889
 #SPEZ= T
 #STAT= im Archiv.
@@ -2420,7 +2423,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KD]
-#INHA= Etalonierung des Thermometers: Alvergniat n° 38801.
+#INHA= Etalonierung des Thermometers: Alvergniat n°38801.
 #JAHR= 1889
 #SPEZ= T
 #STAT= im Archiv.
@@ -2428,7 +2431,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KE]
-#INHA= Etalonierung des Thermometers: Alvergniat n° 38803.
+#INHA= Etalonierung des Thermometers: Alvergniat n°38803.
 #JAHR= 1889
 #SPEZ= T
 #STAT= im Archiv.
@@ -2436,7 +2439,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KF]
-#INHA= Etalonierung des Thermometers: Richter n° 2532.
+#INHA= Etalonierung des Thermometers: Richter n°2532.
 #JAHR= 1889
 #SPEZ= T
 #STAT= im Archiv.
@@ -2444,7 +2447,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KG]
-#INHA= Etalonierung des Thermometers: Richter n° 2533.
+#INHA= Etalonierung des Thermometers: Richter n°2533.
 #JAHR= 1889
 #SPEZ= T
 #STAT= im Archiv.
@@ -2452,7 +2455,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KH]
-#INHA= Etalonierung des Thermometers: Richter n° 2534.
+#INHA= Etalonierung des Thermometers: Richter n°2534.
 #JAHR= 1889 (?)
 #SPEZ= T
 #STAT= fehlt!
@@ -2495,7 +2498,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KN]
-#INHA= Vergleichung der Thermometer: Kappeller n° 1603, 1607, 1611, 1613, 1615, 1617, 1622, 1624, 1625 und n° 1627 mit den Thermometern: Alvergniat n° 45260 und Tonnelot n° 4342 und n° 4343.
+#INHA= Vergleichung der Thermometer: Kappeller n°1603, 1607, 1611, 1613, 1615, 1617, 1622, 1624, 1625 und n°1627 mit den Thermometern: Alvergniat n°45260 und Tonnelot n°4342 und n°4343.
 #BEIL= Korrektions-Kurven
 #JAHR= 1889
 #SPEZ= T
@@ -2504,7 +2507,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KO]
-#INHA= Etalonierung der Thermometer Kappeller n° 1602, 1607, 1611, 1613, 1615, 1617, 1622, 1624, 1625 und n° 1627.
+#INHA= Etalonierung der Thermometer Kappeller n°1602, 1607, 1611, 1613, 1615, 1617, 1622, 1624, 1625 und n°1627.
 #JAHR= 1890
 #SPEZ= T
 #STAT= im Archiv.
@@ -2566,7 +2569,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KV]
-#INHA= Vergleichung der Thermometer: Kappeller T63, T64, T65, T66, T68 und T69 mit den Thermometern: Richter n° 2522, Alvergniat n° 28801 und Tonnelot n° 4342.
+#INHA= Vergleichung der Thermometer: Kappeller T63, T64, T65, T66, T68 und T69 mit den Thermometern: Richter n°2522, Alvergniat n°28801 und Tonnelot n°4342.
 #JAHR= 1890
 #SPEZ= T
 #STAT= im Archiv.
@@ -2574,7 +2577,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [KW]
-#INHA= Überprüfung des Alkoholometers W.A. n° 1541 ex 88 von Heinrich Kappeller in Wien.
+#INHA= Überprüfung des Alkoholometers W.A. n°1541 ex 88 von Heinrich Kappeller in Wien.
 #JAHR= 1890
 #SPEZ= A
 #STAT= im Archiv.
@@ -2913,7 +2916,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [ML]
-#INHA= Etalonierung des Haupt-Normal-Einsatzes n° 10 für Gewichte von 1 kg bis 10 kg.
+#INHA= Etalonierung des Haupt-Normal-Einsatzes n°10 für Gewichte von 1 kg bis 10 kg.
 #JAHR= 1890
 #SPEZ= W
 #STAT= im Archiv.
@@ -2921,7 +2924,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [MM]
-#INHA= Etalonierung des Haupt-Normal-Einsatzes n° 10 für Gewichte von 1 kg bis 10 kg.
+#INHA= Etalonierung des Haupt-Normal-Einsatzes n°10 für Gewichte von 1 kg bis 10 kg.
 #JAHR= 1890
 #SPEZ= W
 #BEME= andere Reduktion als in [ML].
@@ -2974,7 +2977,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [MS]
-#INHA= Untersuchung des Kontroll-Normal-Einsatzes n° 10404 von 500 g bis 1 g, für die k.k. Aich-Inspektorate.
+#INHA= Untersuchung des Kontroll-Normal-Einsatzes n°10404 von 500 g bis 1 g, für die k.k. Aich-Inspektorate.
 #JAHR= 1890
 #SPEZ= W
 #STAT= im Archiv.
@@ -3030,7 +3033,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [MZ]
-#INHA= Vergleichung der Thermometer: H. Kappeller T77, T78, T79 mit den Thermometern: H. Kappeller n° 1930 und 1931 und Alvergniat n° 43371.
+#INHA= Vergleichung der Thermometer: H. Kappeller T77, T78, T79 mit den Thermometern: H. Kappeller n°1930 und 1931 und Alvergniat n°43371.
 #JAHR= 1891
 #SPEZ= T
 #STAT= im Archiv.
@@ -3129,7 +3132,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [NM]
-#INHA= Etalonierung des Kontroll-Normal-Einsatzes n° 10406; für Gewichte von 500 g - 1 g.
+#INHA= Etalonierung des Kontroll-Normal-Einsatzes n°10406; für Gewichte von 500 g - 1 g.
 #JAHR= 1891
 #SPEZ= W
 #STAT= im Archiv.
@@ -3137,7 +3140,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [NN]
-#INHA= Etalonierung des Kontroll-Normal-Einsatzes n° 10404; für Gewichte von 500 g - 1 g.
+#INHA= Etalonierung des Kontroll-Normal-Einsatzes n°10404; für Gewichte von 500 g - 1 g.
 #JAHR= 1891
 #SPEZ= W
 #STAT= im Archiv.
@@ -3145,7 +3148,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [NO]
-#INHA= Überprüfung eines der k.k. N.A.C. gehörigen Elster'schen Aich-Kolbens n° 35.
+#INHA= Überprüfung eines der k.k. N.A.C. gehörigen Elster'schen Aich-Kolbens n°35.
 #JAHR= 1891
 #SPEZ= N
 #STAT= im Archiv.
@@ -3170,7 +3173,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [NR]
-#INHA= Überprüfung der zwei Alkohometer n° 5282 und n° 5388.
+#INHA= Überprüfung der zwei Alkohometer n°5282 und n°5388.
 #JAHR= 1891
 #SPEZ= A
 #STAT= im Archiv.
@@ -12259,7 +12262,7 @@ Update am 05.01.2023
 #INHA= Vergleichung des Normal-Barometer Inv.Nr.: 2969 mit dem Barometer Kappeller 1440. Anschluss an Heft [BED].
 #JAHR= 1908
 #SPEZ= B
-#BEME= Vorbereitung zu einer Brüfung von 3 Barometern der k.k. Zentralanstalt für Meteorologie und Geodynamik.
+#BEME= Vorbereitung zu einer Prüfung von 3 Barometern der k.k. Zentralanstalt für Meteorologie und Geodynamik.
 #STAT= im Archiv.
 #ORGA= NEK
 #MARK= 
