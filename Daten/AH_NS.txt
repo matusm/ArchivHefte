@@ -735,7 +735,7 @@ Update am 05.01.2023
 #JAHR= 1885
 #SPEZ= T
 #BEME= Heft eingescannt und transkribiert.
-#BEME= Beschreibt die Rückführung der an der NEK durchgeführten Temperaturmessungen. Das Normal war zu ursprünglich das sogennante Normalthermometer (N.T.) welches in Besitz des polytechnischen Institutes (heute TU-Wien) war. Es werden penibel die Vergleichsmessungen mit den Thermometern 2ter Ordnung beschrieben. 
+#BEME= Beschreibt die Rückführung der an der NEK durchgeführten Temperaturmessungen. Das Nationale Normal war ursprünglich das sogennante Normalthermometer (N.T.) des Observatoriums der kk technischen Hochschule (heute TU-Wien). Im Heft werden penibel die Vergleichsmessungen mit den Thermometern 2ter Ordnung beschrieben.
 #BEME= Zitiert auf Seite 258 in: W. Marek, "Das österreichische Saccharometer", Wien 1906. In diesem Buch auch Zitate zu den Heften: [O] [Q] [T] [U] [V] [W] [AO] [AZ] [CM] [CN] [CO] [FS] [GL] [SC] [ST] [TW] [WY] [ZN] [AET] [AFY] [AKE] [AKK] [AKJ] [AKL] [AKN] [AKT] [ALG] [AMM] [AMN] [AUG] [BBM]
 #STAT= im Archiv.
 #ORGA= NEK
