@@ -33,6 +33,12 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Bev.UI">
+      <HintPath>..\..\Bev.UI.ConsoleUI\Bev.UI\bin\Release\Bev.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Heft">
+      <HintPath>..\Heft\bin\Release\Heft.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -41,12 +47,6 @@
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
-    <Reference Include="Bev.UI">
-      <HintPath>..\..\Bev.UI\Bev.UI\bin\Release\Bev.UI.dll</HintPath>
-    </Reference>
-    <Reference Include="Heft">
-      <HintPath>..\Heft\bin\Release\Heft.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />

@@ -7,14 +7,16 @@ namespace XML2LaTeX
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
 
-            string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
-            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
-            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
-            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
+            string defaultFileName;
+
+            // defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
+            // defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
+            // defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
+            defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
 
             #region File name logic
             string baseInFileName = "";
@@ -46,8 +48,7 @@ namespace XML2LaTeX
             if (data.NumberOfHefte == 0)
             {
                 Console.WriteLine("Keine Daten gefunden!");
-                Environment.Exit(1);
-
+                return 1; ;
             }
 
             LatexSource latexSource = new LatexSource();
@@ -64,6 +65,7 @@ namespace XML2LaTeX
 
             Console.WriteLine($"{outFilename} written.");
 
+            return 0;
         }
     }
 }

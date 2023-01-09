@@ -3,15 +3,8 @@ using System.Net;
 
 namespace ArchivHefte
 {
-
     public static class SaveEncoder
     {
-        /// <summary>
-        /// Encode the specified string for save use within XML or HTML use.
-        /// </summary>
-        /// <returns>The save string.</returns>
-        /// <param name="unsaveString">The string to be encoded.</param>
-        /// <param name="type">Type.</param>
         public static string Encode(string unsaveString, EncodeFor type)
         {
             if (string.IsNullOrEmpty(unsaveString))
@@ -19,11 +12,11 @@ namespace ArchivHefte
             switch (type)
             {
                 case EncodeFor.Xml:
-                    return SecurityElement.Escape(unsaveString);
+                    return SecurityElement.Escape(unsaveString); // save for XML use
                 case EncodeFor.Html:
-                    return WebUtility.HtmlEncode(unsaveString);
+                    return WebUtility.HtmlEncode(unsaveString); // save for HTML use
                 case EncodeFor.Tex:
-                    return TexEncode(unsaveString);
+                    return TexEncode(unsaveString); // save for my use
                 default:
                     return unsaveString;
             }
@@ -42,7 +35,6 @@ namespace ArchivHefte
             temp = temp.Replace(@"°", @"{$^\circ$}");
             return temp;
         }
-
     }
 
     public enum EncodeFor 
@@ -52,6 +44,5 @@ namespace ArchivHefte
         Html, 
         Tex 
     }
-
 }
 

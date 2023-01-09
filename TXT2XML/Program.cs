@@ -9,23 +9,14 @@ namespace TXT2XML
 {
     class Program
     {
-        static void Main(string[] args)
+        static int Main(string[] args)
         {
             Console.WriteLine($"This is {Assembly.GetExecutingAssembly().GetName().Name} version {Assembly.GetExecutingAssembly().GetName().Version}");
-
-
-            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
-            // string defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
-              string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
-            // string defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
-
-            // Ältere oder Neue Serie?
-            HeftType serie = HeftType.Unknown;
-            if(defaultFileName.Contains("_NS"))
-                serie = HeftType.NS;
-            if (defaultFileName.Contains("_AeS"))
-                serie = HeftType.AeS;
-
+            string defaultFileName;
+            // defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_AeS"; // mac
+            // defaultFileName = @"/Users/michaelmatus/Projects/ArchivHefte/Daten/AH_NS"; // mac            
+            // defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_AeS"; // windows
+            defaultFileName = @"C:\Users\Administrator\source\repos\ArchivHefte\Daten\AH_NS"; // windows
 
             #region File name logic
             string baseInFileName = "";
@@ -47,6 +38,12 @@ namespace TXT2XML
             }
             string inFilename = Path.ChangeExtension(baseInFileName, ".txt");
             string outFilename = Path.ChangeExtension(baseOutFileName, ".xml");
+            // Ältere oder Neue Serie?
+            HeftType serie = HeftType.Unknown;
+            if (inFilename.Contains("_NS"))
+                serie = HeftType.NS;
+            if (inFilename.Contains("_AeS"))
+                serie = HeftType.AeS;
             #endregion
 
             #region Reading and parsing the TXT-file
@@ -102,6 +99,7 @@ namespace TXT2XML
 
             # endregion
 
+            return 0;
         }
     }
 }

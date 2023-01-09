@@ -1,6 +1,6 @@
-﻿using System;
+﻿using ArchivHefte;
+using System;
 using System.Text;
-using ArchivHefte;
 
 namespace XML2LaTeX
 {
@@ -239,7 +239,6 @@ namespace XML2LaTeX
             tmp = tmp.Replace(@"_X", @"$_\mathrm{X}$");
             tmp = tmp.Replace(@"_J", @"$_\mathrm{J}$");
             tmp = tmp.Replace(@"_m", @"$_\mathrm{m}$");
-            
 
             // Punkte im Satz
             tmp = tmp.Replace(@"k.k. ", @"k.k.\ ");
@@ -359,11 +358,11 @@ namespace XML2LaTeX
             {
                 sbFehlendA.AppendLine(@"\section{Fehlende Hefte von allgemeinem oder unbekannten Inhalt}");
                 sbFehlendA.AppendLine(Texts.AbsatzFehlendAllgemein + @"\\");
-                sbFehlendA.AppendLine(@"\\{}");
                 // Index fehlender Hefte, Elektrizität
                 sbFehlendE.Clear();
                 sbFehlendE.AppendLine(@"\section{Fehlende Hefte elektrische Messungen betreffend.}");
                 sbFehlendE.AppendLine(Texts.AbsatzFehlendElektrisch + @"\\");
+                sbFehlendE.AppendLine(@"\\{}");
             }
             if (serie == HeftType.AeS)
             {
@@ -478,8 +477,6 @@ namespace XML2LaTeX
             sbSpezialIndex.AppendLine(@"\item " + spezialIndex.FormattedString('U'));
             sbSpezialIndex.AppendLine(@"\item " + spezialIndex.FormattedString('z'));
             sbSpezialIndex.AppendLine(@"\end{itemize}");
-
         }
-
     }
 }

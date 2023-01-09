@@ -20,9 +20,9 @@ namespace ArchivHefte
         public List<string> Keys { get; set; }
         public int Chronologie { get; set; }
 
-        public override string ToString() { return $"Heft: {Signatur}"; }
+        public override string ToString() => $"Heft: {Signatur}";
 
-        public string ToLegacyFormat() { return ToLegacyFormat(Serie); }
+        public string ToLegacyFormat() => ToLegacyFormat(Serie);
 
         public string ToLegacyFormat(HeftType heftType)
         {
@@ -38,7 +38,7 @@ namespace ArchivHefte
             return ToPlainFormat(Signatur);
         }
 
-        public string ToTextFormat() { return ToTextFormat(Serie); }
+        public string ToTextFormat() => ToTextFormat(Serie);
 
         private string ToPlainFormat(string signatureText)
         {
@@ -82,7 +82,6 @@ namespace ArchivHefte
         }
 
         private const string separator = "****************************************";
-
     }
 
     public enum HeftType

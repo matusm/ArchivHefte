@@ -59,7 +59,6 @@ namespace XML2TXT
                 outFile.WriteLine(hefte.Hefte[0].ToTextFormat(HeftType.Empty));
             }
             ConsoleUI.Done();
-
         }
     }
 }

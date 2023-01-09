@@ -1,13 +1,12 @@
-﻿using System.Collections.Generic;
+﻿using ArchivHefte;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ArchivHefte;
 
 namespace XML2LaTeX
 {
     public class IndexChronologie
     {
-
         private Dictionary<int, string> chronoDict = new Dictionary<int, string>();
         private StringBuilder sb = new StringBuilder();
 
@@ -44,7 +43,5 @@ namespace XML2LaTeX
                 sb.AppendLine();
             }
         }
-
-
     }
 }
