@@ -100,7 +100,7 @@ Update am 05.01.2023
 #INHA= Abwägung einer dem k.k. Münz und Antiken Kabinete gehörigen Medaille, welche in dessen Katalog als "Stamm-Tafel des Kaisers Leopold", verzeichnet ist.
 #JAHR= 1883
 #SPEZ= z
-#BEME= Masse: 7,2006 kg, Dichte 12,674 g/cm³
+#BEME= Masse: 7,2006 kg, Dichte 12,674 g/cm^3
 #BEOB= Marek
 #BEOB= Petersburg
 #STAT= im Archiv.
@@ -13754,7 +13754,7 @@ Update am 05.01.2023
 #MARK= 
 ****************************************
 #HEFT= [BMU]
-#INHA= H.a. Amagatapparat 2683, Inv.Nr. Oi5. Neuerliche Bestimmung des Durchmessers und des Gewichtes des Kolbens sowie der Gewichte der Belastungsscheiben. Zusatzeinrichtung für den h.a. Amagatapparat zur Prüfung von Manometern mit kleinem Skalenumfang (bis 6 kg/cm²).
+#INHA= H.a. Amagatapparat 2683, Inv.Nr. Oi5. Neuerliche Bestimmung des Durchmessers und des Gewichtes des Kolbens sowie der Gewichte der Belastungsscheiben. Zusatzeinrichtung für den h.a. Amagatapparat zur Prüfung von Manometern mit kleinem Skalenumfang (bis 6 kg/cm^3).
 #JAHR= 1928 (?)
 #SPEZ= MWL
 #BEME= siehe [BMR].
