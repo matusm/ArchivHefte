@@ -16,7 +16,7 @@ namespace ArchivHefte
                 case EncodeFor.Html:
                     return WebUtility.HtmlEncode(unsaveString); // save for HTML use
                 case EncodeFor.Tex:
-                    return TexEncode(unsaveString); // save for my use
+                    return TexEncode(unsaveString); // save for TeX use
                 default:
                     return unsaveString;
             }

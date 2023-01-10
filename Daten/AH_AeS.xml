@@ -1,0 +1,1369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfHeft xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Heft>
+    <Signatur>[M.1]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Bestimmung des aboluten Werthes und der Dilatation der fünf Meter: H, m_3, s_3, M_4 und St auf Grund der Beobachtungen in Heft [M.9] ä.S. Notizen über den Stab "J" des k.k. geogrf. Institutes.</Inhalt>
+    <Jahr>1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Die Messungen wurden bei Temperaturen zwischen 9 °C und 24 °C durchgeführt.</string>
+      <string>Über den Messingmeterstab ist lediglich ein kleiner Zettel eingeheftet.</string>
+      <string>Briefwechsel zwischen Marek und Herr aus 1880 über die Übersendung eines Mastabes an das BIPM. Auf Briefpapier des BIPM. Hinweis auf eine Erkrankung Herrs.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.2]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>?</Inhalt>
+    <Jahr />
+    <Status>fehlt!</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Die Existenz und Zuordnung dieses Heftes ist lediglich aus der Signatur erschlossen.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>-1</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.3]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichungen der Halb-Toise "A" mit der Halb-Toise "B" und des Glasmeters "G_6" mit dem Glasmeter "G_II".</Inhalt>
+    <Jahr>1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Das Glasmeter G_6 ist neben G_II in der Arbeit von Steinheil aus 1867 beschrieben.</string>
+      <string>Beide Glasmeter befinden sich noch im Bestand des BEV.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.4]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichung des halben Meters "A_1/2" von Messing mit dem Meter "M_4".</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Heft enthält ein Blatt.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.5]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichungen des Messingmeters "J" des k.k. geografischen Institutes und des Kontrol-Normales n° 1 mit den Meterstäben M_4 und H.</Inhalt>
+    <Jahr>1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Heft enthält ein Blatt.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.6]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchun der Gebrauchs-Normal-Meter.</Inhalt>
+    <Jahr>1873 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Neben umfangreichen Protokollen von Vergleichungen befindet sich im Heft auch eine Notiz über den Einfluss der Biegung auf die gemessene Länge.</string>
+      <string>Einige Längenwerte sind in Pariser Linien angegeben. Hinweis auf "Starkes Originalteilung".</string>
+      <string>Bemerkenswerterweise wurden keine Temperaturen gemessen.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1873</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.7]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichungen der Meterstäbe M_2, M_3, M_4, m_i, C^m_s, R, S und (PM) mit G_II und untereinander. Vergleichungen der halben Klafter (s'_m) mit der halben Klafter E. Bestimmung der Theilungs-Fehler der Meter M_4. (PM), St und R.</Inhalt>
+    <Jahr>1872 - 1874</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Heterogenes Konvolut. Mit St wird der "Messingmeter des Herrn Starke" bezeichnet. Teilweise wird die Temperatur berücksichtigt.</string>
+      <string>Glasmeter G_II ist noch im Bestand des BEV.</string>
+      <string>Mit roter Schrift finden sich Bearbeitungen von Marek aus 1888.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.8]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Einige Manuscripte zur Untersuchung der Meterstäbe G_II, M_4, N_m, N_s, H und J.</Inhalt>
+    <Jahr>1873 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Ausführliche Beschreibung der reduzierten Ergebnisse und der untersuchten Meterstäbe. Mit Verweis auf andere Arbeiten. Paraphe von Marek aus 1888.</string>
+      <string>Glasmeter G_II ist noch im Bestand des BEV.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1873</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.9]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichung der Meter St, M_4, H, m_3 und s_3 mit dem Glasprototipe G_II und untereinander. Journal und unmittelbare Reduktion.</Inhalt>
+    <Jahr>1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Beiblatt mit Verweis auf [M.11], [BQ] und [M.1]. [BQ] ist ein Archiv-Heft der neuen Serie und behandelt die in der NEK gebräuchlichen Temperaturskalen.</string>
+      <string>Glasmeter G_II ist noch im Bestand des BEV.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.10]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Constanten des Universal-Comparators der k.k. tech. Hochschule. Stampfer's Original.</Inhalt>
+    <Jahr />
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Der Inhalt besteht aus 6 herausgetrennten Buch-Blättern (Seiten 179 bis 190). Zahlreiche Korrekturzeichen über falsche Buchstaben und falsche Zahlenwerte.</string>
+      <string>Aus: "Jahrbücher des kaiserl. königl. polytechnischen Institutes in Wien. Band 18, 1834"</string>
+      <string>Beschreibung zweier am k.k. polytechnischen Institute befindlichen Komparatoren (Maßvergleicher) und Untersuchung ihrer Genauigkeit. S. Stampfer.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>-1</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.11]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Formeln und Constanten zur unmittelbaren Reduktion der am Universal-Comparator der k.k. tech. Hochschule gemachten Längen-Vergleichungen.</Inhalt>
+    <Jahr>1872 (?)</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Eine Art Gebrauchsanweisung des Komparators. Vorgangsweise des Vergleichs zweier Maße aus unterschiedlichen Materialien. Im Heft ein Vermerk aus 1888.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.12]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Bestimmung der Länge und Ausdehnung der Stäbe "a" und "H". Originalzahlen zu den "Travaux et Memoires du Bureau internationales des Poids at Mesures, Tom III pag. C30 et suiv."</Inhalt>
+    <Jahr>1883</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>15 Seiten mit Beobachtuungsdaten und Auswertungen. Auf der ersten Seite eine Skizze der Lage der beiden Stäbe und der verwendeten Thermometer.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1883</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.13]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Beiträge zur Theorie der Längenvergleichungen nach der Methode von Fizeau.</Inhalt>
+    <Jahr>1872 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Umfangreiche mathematische Ableitungen, anscheinend über die Bestimmung der Endmaßlänge mittels Mikroskop (Schattenmethode).</string>
+      <string>Notizen auf der Rückseite einer Einladung der "Commission Internationale due Metre. Conservatoire des Arts &amp; Metiers aus 1872"</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.14]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichung der Stäbe H, N_m und N_s mit dem Glasmeter G_II und untereinander.</Inhalt>
+    <Jahr>1875 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Im Heft ein späterer Verweis auf [M.11], [BQ] und [M.8]. Im Übrigen lediglich direkte Beobachtungsresultate mit spärlicher Beschreibung.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[M.15]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichungen der Meterstäbe a_1 - a_10 mit dem Meter M_4.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Im Heft ein Blatt mit den Beobachtungen sowie eine in roter Tinte geschriebene Bemerkung aus 1888. Dort auch Verweise auf [M.9], [M.7], [M.1] und [M] (?).</string>
+      <string>Statt wie im Titel a_1 bis a_10 ist in der Bemerkung von A_1 bis A_10 die Rede.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.1]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>1. Erste Vergleichung der Thermometer Greiner n° 1, 2, 3, 4 mit den Normal-Thermometer. 2. Erste Vergleichung der Thermometer Kappeller n° 5, 6, 7, u. 8 mit dem Normal-Thermometer. 3. Diverse Eispunkt-Bestimmungen.</Inhalt>
+    <Jahr>1872</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung ist aber sichtbar.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.2]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Zweite Vergleichung der Thermometer Greiner n° 1, 2, 3 u. 4 mit dem Normal-Thermometer.  Eispunkt-Bestimmungen und Tafel IV für diese Thermometer.</Inhalt>
+    <Jahr>1874</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Die großen Papierbögen sind so gefaltet, dass eine Bearbeitung schwierig ist. Eine mit roter Tinte später (1885) hinzugefügte Bemerkung am ersten Blatt.</string>
+      <string>Im Heft ein Diagramm der Abweichungen (?), das karierte Kanzleipapier ist wie ein Millimeterpapier verwendet.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.3]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Dritte Vergleichung der Thermometer Greiner n° 1, 2 mit dem Normal-Thermometer. Zweite Vergleichung der Thermometer Kappeller n° 7, 8 mit dem Normal-Thermometer.</Inhalt>
+    <Jahr>1874</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Eine mit roter Tinte später (1885) hinzugefügte Bemerkung mit Verweis auf [T.6] und [BQ]. Im Heft ein Diagramm der Abweichungen welches zur graphischen Interpolation verwendet wurde.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.4]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Fünfte Vergleichung der Thermometer Greiner n° 1, 2 u. 3, mit dem Normal-Thermometer bei Temperaturen ober 0; Erste Vergleichung derselben mit dem Normal-Thermometer bei Temperaturen unter 0, und Bestimmung der Theilungsfehler ihrer Scalen für die Striche unter 0.</Inhalt>
+    <Jahr>1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Am Titelblatt der Hinweis: "NB. die vierte Vergleichung ist im Hefte [7] ä. S. enthalten."</string>
+      <string>Gezeichnet von Marek. Beide Thermometer vertikal und ganz eingetaucht. Angaben in °C und in °R. Hinweis auf ein "Meridianzimmer" (?).</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.5]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchungen der Thermometer Kappeller n° 1021, 1022, 1023, 1025, 1026, 1028, 1029. Bemerkungen über das Thermometer Geissler. Diverse Corrections-Tafeln. Diverse Notizen.</Inhalt>
+    <Jahr>1874 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Schönes Beobachtungsjournal von Marek. Eispunktbestimmungen wurden mit Schnee durchgeführt (19. und 20. Dezember 1874). Im Heft auch ein Hinweis auf Rumler.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.6]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Herleitung der neuen Tafel für die Thermometer Greiner, für die verticale Lage.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Das Heft beginnt mit 4 Seiten "Theorie der Greiner Thermometer". Zusammenstellung der ersten, zweiten, dritten und fünften Vergleichungen.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.7]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Tafeln für die Greiner Thermometer I für die verticale Lage.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Von Marek. Verweis auf [T.6] und [BQ]. Eispunkte der drei Thermometer ab 1872 bis 1881.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.8]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Tafeln für die Greiner Thermometer II für die horizontale Lage.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Von Marek. Verweis auf [T.6] und [BQ]. Während in [T.7] ausführliche Tabellen der Abweichungen angeführt sind, wird hier ein Korrekturglied für die geänderte Lage mitgeteilt. Die Abweichung beträgt maximal 0,033 °C. Nach der Beschreibung werden die Thermometer in horizontaler Lage ausschließlich in Luft verwendet.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.9]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Normal-Thermometer Herleitung neuer Tafeln.</Inhalt>
+    <Jahr>1876 - 1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Umfangreiche theoretische Ableitungen, mit einigen Zeichnungen. Anmerkungen in roter Tinte aus 1885.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.10]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Tafeln für das Normal-Thermometer.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Ausführliche Beschreibung der Anwendung der verschiedenen Korrekturen. Die Tafel selbst reicht von -15 °R bis +20 °R. Der Eispunkt wurde im Zeitraum 1865 bis 1880 angegeben.</string>
+      <string>Anmerkungen in roter Tinte aus 1885.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[T.11]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Correktions-Tafel des Thermometers Greiner n° 1.</Inhalt>
+    <Jahr>1874 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Im Heft Dokumentation der Entwicklung der Tafel.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[TA.I]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchung der Thermometer n° 1, 2, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 20, 21, 22, 23 von L.J. Kappeller welche an die Aichämter der Landeshauptstädte abgegeben werden sollen.</Inhalt>
+    <Jahr>1874</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Das Heft enthält eine große Zahl an Korrektionstafeln.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[A.II]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Bestimmung des specifischen Gewichtes weingeistiger Mischungen von 5-40 % w. Stärke für die Temperaturen von 0 bis -10 °R.</Inhalt>
+    <Jahr>1875 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>A</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Sehr ausführliche Arbeit mit der Herleitung des Messverfahrens.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Alkoholometrie</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[A.III]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung der Gebrauchs-Normal-Spindeln 1a bis 21a und 1b bis 19b.</Inhalt>
+    <Jahr>1874 - 1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>A</KeysCode>
+    <Beilagen>
+      <string>I. Untersuchung der Alkoholometer-Gebrauchsnormale Spindel a n° 1 bis 8. Sindel b n° 1 bis 8.</string>
+      <string>II. Untersuchung der Alkoholometer-Gebrauchsnormale Spindel a n° 9 bis 14. Sindel b n° 9 bis 13.</string>
+      <string>III. Untersuchung der Alkoholometer-Gebrauchsnormale Spindel a n° 15 bis 21. Sindel b n° 9 bis 19.</string>
+    </Beilagen>
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Hauptheft gibt Übersicht und Tabellen der Korrektionen der genannten Spindeln. Verweis in roter Tinte auf Heft [BG]</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Alkoholometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[1]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Volums-Bestimmung der Gewichts-Stücke A500 und A200</Inhalt>
+    <Jahr>1872</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Zusammenstellung der verwendeten Waagen. Viele Bemerkungen in roter Tinte aus 1887, 1889, 1891</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[2]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Reduktion der Wägungen deren Journal das Heft [3] bildet</Inhalt>
+    <Jahr>1872 - 1873</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Im Text Verweis auf Heft [10]. Viele Bemerkungen in roter Tinte aus 1887 mit Verweisen auf die Hefte [A.I], [14], [13], [A.10], [1], [5], [20].</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[3]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Journal diverser in dem Zeitraume 1872, October 22 bis 1873, October 18 ausgeführten Wägungen.</Inhalt>
+    <Jahr>1872 - 1873</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Ausführliche tabellarische Auflistung.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[4]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Standcorrection des Barometers: Lenoir n° 829 und einiger anderer. Bildet die Beilage I zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1872</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>B</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Bei den anderen Barometern handelt es sich um Kappeller n° 811, Fortin der k.k. tech. Hochschule und Normalbarometer der k.k. tech. Hochschule. Hinweis auf Prof. H. P. Pierre.</string>
+      <string>Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.</string>
+      <string>Mit einer Bemerkung aus 1889 von Marek(?).</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Barometrie (Luftdruck, Luftdichte)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[5]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Bestimmung des Volumens der Gewichtsstücke a_100, a_100., a_50 und a_20 . Bildet die Beilage II zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1872</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Zwei vervielfältigte Formulare zu Hydrostatischen Wägungen.</string>
+      <string>Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.</string>
+      <string>Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[6]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Neue Reduktion einiger Volums-Bestimmung aus Heft [1] ä.S. Bildet die Beilage III zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.</string>
+      <string>Mit Bemerkungen in roter Tinte aus 1889 von Marek(?).</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[7]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchungen der Thermometer Greiner n° 1, 2, 3. Bildet die Beilage IV zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1874</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>T</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Zwei Teile: A. Bestimmung der Theilungsfehler und B. Vergleichung mit dem Normal-Thermometer.</string>
+      <string>Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.</string>
+      <string>Mit Bemerkungen in roter Tinte aus 1885 von Marek(?).</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[8]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Bestimmung der Volumina der Gewichtsstücke der Einsätze B und C. Bildet die Beilage V zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Autor (Bearbeiter) des Heftes ist Marek. Die Auswertungsformeln sind logarithmisch angegeben.</string>
+      <string>Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[9]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Tafeln. Bildet die Beilage VI zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>WT</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Tafeln für die Skalenwerte der Waagen. Konstanten des Steinheilschen Einsatzes (Massen und Volumina). Tafeln des Luftgewichtes. Logarithmen-Tafeln für einige Korrekturen. Die Tafeln der Greiner-Thermometer wurde entfernt.</string>
+      <string>Das zitierte Heft [U] ä.S. scheint mit Heft [13] ä.S. ident zu sein.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+      <string>Thermometrie</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[10'']</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Diverse Bestimmungen von Scalenwerthen und anderen Constanten der Wagen der k.k. Normal-Aichungs-Commission. (Vergleiche Heft [10] u. [10'] ä.S.)</Inhalt>
+    <Jahr>1875 - 1882</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Sehr umfangreiches Heft. Enthält eine Abhandlung zur Theorie der Waage von Marek. Man findet auch eine Aufstellung der damals verwendeten Waagen.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[10']</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Diverse Bestimmungen von Scalen-Werthen der Waagen der k.k. Normal-Aichungs-Commission. vergleiche Heft [10] ä.S.</Inhalt>
+    <Jahr>1875 - 1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Eine Sammlung unkommentierter Schmier-Zettel.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[10]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Skalenwerth der Wagen. Theorie, Beobachtungen und Constanten. Bildet die Beilage VII zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1872 - 1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Enthält wie [10''] eine Abhandlung zur Theorie der Waage. Es scheint sich um eine Vorversion zu handeln.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[11]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Erste Vergleichung der Einsätze B und C und Zweite Vergleichung des Einsatzes A mit dem Steinheil'schen Einsatze nebst Vergleichungen der Einsätze A, B und C untereinander. (Vor der Volums-Bestimmung der Einsätze B und C) Bildet die Beilage VIII zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1874 - 1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen />
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[12]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung der Gewichts-Einsätze B und C. Nach der Bestimmung der Volumina der einzelnen Gewichtsstücke. Bildet die Beilage IX zur Untersuchung [U] ä.S. Heft [13] ä.S.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen />
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[13]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung der Gewichts-Einsätze A, B und C.</Inhalt>
+    <Jahr>1874 - 1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Auf dieses Heft wird unter anderen in den Heften [4] [5] [6] [7] [8] [9] verwiesen.</string>
+      <string>Wird auch unter der Signatur [U] geführt.</string>
+      <string>Autor ist Marek</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[14]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung des Gewichts-Einsatzes "A" von 1 K bis 10 K.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Es wurden drei Waagen verwendet (Steinheilsche, Kusche und Kleine Örtlingsche).</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[15]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Eine neue Bestimmung des Werthes des Gewichts-Stückes "5_1" aus dem Steinheil'schen Bergkristal-Einsatze.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>Wq</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Es handelt sich um ein 500 g Gewichtsstück. Die Kalibrierung nach dem Substitutionsprinzip ist ausführlich beschrieben.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+      <string>Gewichtsstücke aus Bergkristall</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[16]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchung eines Gewichts-Einsatzes für den deutschen Gewichtsfabrikanten Herrn "Westphal".</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>10 Gewichtsstücke von 1 g bis 500 g. Verweis auf die Hefte [10] und [13] der älteren Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[17]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Zur Justierung der eisernen Kontrol-Normale von 1 kg bis 10 kg, mit Nachträgen.</Inhalt>
+    <Jahr>1875 - 1889</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Verweis auf Hefte [2], [13] und [14] der älteren Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[18]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung der Gewichts-Einsätze A und D von 1 K. aufwärts.</Inhalt>
+    <Jahr>1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Gewichtsstücke zu 1 kg, 2 kg, 5 kg und 10 kg. Verweis auf die Hefte [T.5] und [14] der älteren Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1876</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[19]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung der Gewichts-Einsätze A und D von 1 K. aufwärts. Bestimmung des Werthes der Stücke A_500, B_500 und C_500.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Verweis auf Hefte [T.5], [T.7], [13] und [18] der älteren Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[20]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Übersicht der Bestimmungen der Haupt-Gewichts-Einsätze der k.k. Normal-Aichungs-Com. welche in dem Zeitraume von 1872 - 1876 ausgeführt worden sind.</Inhalt>
+    <Jahr>1872 - 1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Zahlreiche Verweise auf Hefte der älteren Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[21]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung des Gewichts-Einsatzes "R" von 1 mg bis 500 mg.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>Wp</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>15 Gewichtsstücke aus Platin und einen anderen (unleserlichen) Material. Zwei Zeichnungen der Ausführung. Zahlreiche Verweise auf Hefte der älteren Serie. Ein Hinweis auf Steinheil.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+      <string>Gewichtsstücke aus Platin oder Platin-Iridium (auch Kilogramm-Prototyp)</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[22]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Versuch einer Bestimmung des Scalenwerthes einer Wage aus der Schwingungsdauer derselben, bei verschiedener Belastung.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Mit einer Zeichnung und mathematischen Ableitungen. Mit einer Bemerkung aus 1889.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[23]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Mineralöl-Aräometer für Zoll-Aemter.</Inhalt>
+    <Jahr>1877 - 1891</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>C</KeysCode>
+    <Beilagen>
+      <string>1 Vorschrift betreffend der Justierung, Aichung und Verwendung der Aräometer zur Bestimmung der Dichte von Mineralölen.</string>
+      <string>2 Dichtebestimmung von Dr. Moser.</string>
+      <string>3 Tafeln für Temperaturen zwischen 0 und 25 °C.</string>
+      <string>4 Tafeln für 12 °R.</string>
+      <string>5 Neue Ableitung der Tafeln.</string>
+      <string>6 Reduktion der Marekschen Wägungen der Mineralöle.</string>
+      <string>7 Beilage zu den steographische Protokollen des Abgeordnetenhauses sowie Bemerkungen zur Mineralöl-Besteuerung.</string>
+      <string>8 Anweisung zum Gebrauche des Aräometers und der zugehörigen Reduktionstabelle zur Bestimmung der Dichte der Mineralöle</string>
+    </Beilagen>
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Verweise auf Akten-Zahlen.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Aräometer (excl. Alkoholometer und Saccharometer)</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[24]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Versuche mit einem Spiritus-Messapparat der Firma Siemens &amp; Comp. (Berlin) ausgeführt in der Spiritusbrennerei zu Hodolein bei Olmütz in Mähren.</Inhalt>
+    <Jahr>1877</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>R</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Schöne Zeichnung des Versuchsaufbaues.</string>
+      <string>Verweis auf [BZ] und [BW] der neuen Serie.</string>
+      <string>zur h.o.Z. 2560 ex 1877</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Spirituskontrollmessapparate</string>
+    </Keys>
+    <Chronologie>1877</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[25]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchung der Gebrauchs-Normal-Spindeln zur Bestimmung des sp. Gewichtes von Mineral-Ölen.</Inhalt>
+    <Jahr>1882</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>C</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Mit umfangreichen Korrektionskurven auch auf Millimeterpapier. Verweis auf [ANM] der neuen Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Aräometer (excl. Alkoholometer und Saccharometer)</string>
+    </Keys>
+    <Chronologie>1882</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[26]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Bestimmung des Theilungs-Fehler des Glas-Nonius Inv.N. 768 und einiger anderen an die k.k. Aichämter abgegebenen Glasnonien.</Inhalt>
+    <Jahr>1875</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Es handelt sich um Nonien von 100 mm Länge.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[27]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Vergleichung einiger Meterstäbe des Wiener Mechanikers Hr. Rost mit dem Haupt-Normal "M_4".</Inhalt>
+    <Jahr>1882</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Unter Verwendung des Glasnonius aus Heft [26] der älteren Serie.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1882</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[28]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Beiträge zur Kenntniss der Ausdehnung der legalen Wiener Klafter (im Comparator der k.k. tech. Hochschule) und der Länge der Halben Klafter "E" der k.k. Academie der Wissenschaften. (Aus dem Manuscripte d. ch. Prof. Dr. Herr zusammengetragen W. Marek 1891)</Inhalt>
+    <Jahr>1867 - 1872</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Recht umfangreiches Datenmaterial.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1867</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[29]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Ausmessung eines Quartzprismas für Herrn Prof. Dr. Edlen von Lang.</Inhalt>
+    <Jahr>1874 - 1978</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>L</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Sachverhalt aus 1891.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Längenmessungen</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[30]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Zur Herstellung der ersten Alkoholometer-Skalennetze auf Grundlage von [AV]. (Vergleiche auch [AW]).</Inhalt>
+    <Jahr>1874</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>A</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Grundlagen für volle Skalen, Skalen von 0 - 72 % und Skalen von 60 % - 100 %.</string>
+      <string>Im Heft auch drei Skalennetze auf starkem Karton gezeichnet.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Alkoholometrie</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[31]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Tafeln der Dichte des Wassers.</Inhalt>
+    <Jahr>1878 - 1888</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>D</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Berechnete Tafeln aus einer Volums-Formel für den Bereich 4 °C bis 27 °C.</string>
+      <string>Aus einem Polynom 3-ten Grades wurde der Kehrwert mit Polynom 6-ten Grades angepasst.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Dichte von Flüssigkeiten</string>
+    </Keys>
+    <Chronologie>1878</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[32]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Untersuchung der für die österreichische Nord-Polar-Station "Jan Mayen" bestimmten und der hierämtlichen Aräometer Kapp. no 5, 6, 7 und 8 (Jnv.Nr. 851, 852, 853 und 854)</Inhalt>
+    <Jahr>1882</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>C</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Umfangreiche Messungen und Korrektur-Kurven für den Dichten-Bereich 1,000 bis 1,031. Wohl zur Dichtebestimmung von Meerwasser gedacht.</string>
+      <string>Auf Anregung Carl Weyprechts und finanziert von Hans Graf Wilczek wurde auf der Insel Jan Mayen während des Ersten Internationalen Polarjahrs 1882/83 eine österreichisch-ungarische Forschungsstation eingerichtet. Dort wurden unter der Leitung von Emil von Wohlgemuth dreizehn Monate lang meteorologische, magnetische und astronomische Beobachtungen angestellt.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Aräometer (excl. Alkoholometer und Saccharometer)</string>
+    </Keys>
+    <Chronologie>1882</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[33]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Überprüfung der an die k.k. Aichämter abgegebenen Saccharometer-Scalen-Netze.</Inhalt>
+    <Jahr>1875 - 1876</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>S</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen />
+    <Markierung />
+    <Keys>
+      <string>Saccharometrie</string>
+    </Keys>
+    <Chronologie>1875</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[34]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Dimensionen der Aich-Kolben.</Inhalt>
+    <Jahr>1874 - 1884</Jahr>
+    <Status>fehlt!</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>N</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Im Archiv ein Entlehnzettel: "Bei D.Ing. Friebes! 9.12.1952"</string>
+      <string>Titel und Jahr wurde aus dem Entlehnzettel erschlossen.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Statisches Volumen (Eichkolben, Flüssigkeitsmaße, Trockenmaße)</string>
+    </Keys>
+    <Chronologie>1874</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[35]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Manuscripte des Herrn k.k. Ministerialrathes, Professor Dr. J. Ph. Herr die Reduktion von Wägungen in Luft und von Volums-Bestimmungen, betreffend.</Inhalt>
+    <Jahr>1872 - 1883</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Verweis vom 28. April 1891</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1872</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[36]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Etalonierung von Drei Münz-Pfunden MM_D, MM_B und MM_III des k.k. Haupt-Münz-Amtes in Wien.</Inhalt>
+    <Jahr>1873</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>W</KeysCode>
+    <Beilagen />
+    <Bearbeiter>
+      <string>Marek?</string>
+    </Bearbeiter>
+    <Bemerkungen>
+      <string>Neben den Messprotokollen auch ein Konzept des Zertifikats.</string>
+      <string>Urpfund 1856 D, Normalpfund B, Normalpfund III haben alle nahezu 500 g und ein Volumen von etwa 62 cm^3.</string>
+      <string>Verweis vom 28. April 1891 auf die Hefte [2] und [3].</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+    </Keys>
+    <Chronologie>1873</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[37]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Volums-Bestimmung des Platin-Kiligrammes "Z" und Vergleichungen dessselben mit dem Messing-Kilogramme "E_I" imDezember 1882 und Jänner 1883.</Inhalt>
+    <Jahr>1882 - 1883</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>Wp</KeysCode>
+    <Beilagen />
+    <Bearbeiter>
+      <string>Petersburg</string>
+    </Bearbeiter>
+    <Bemerkungen>
+      <string>Beschreibung der Messungen und der Geräte.</string>
+      <string>Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.</string>
+      <string>Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2023) bei Michael Matus.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+      <string>Gewichtsstücke aus Platin oder Platin-Iridium (auch Kilogramm-Prototyp)</string>
+    </Keys>
+    <Chronologie>1882</Chronologie>
+  </Heft>
+  <Heft>
+    <Signatur>[38]</Signatur>
+    <Serie>AeS</Serie>
+    <Inhalt>Transportapparat für das Kilogramm "Z".</Inhalt>
+    <Jahr>1882</Jahr>
+    <Status>im Archiv.</Status>
+    <Organisation>NEK</Organisation>
+    <KeysCode>Wp</KeysCode>
+    <Beilagen />
+    <Bearbeiter />
+    <Bemerkungen>
+      <string>Im Heft Beschreibung und Zeichnungen über Funktionsweise und Konstruktion eines Halteapparates. Auf Deutsch und Französisch.</string>
+      <string>Bei dem Kilogramm-Gewichtsstück "Z" handelt es sich um das Platin-Gewichtsstück welches von Rummler 1857 angeschafft wurde.</string>
+      <string>Die Messingdose und die Holzkassette dieses Gewichtsstückes befindet sich derzeit (2023) bei Michael Matus.</string>
+    </Bemerkungen>
+    <Markierung />
+    <Keys>
+      <string>Masse (Gewichtsstücke, Wägungen)</string>
+      <string>Gewichtsstücke aus Platin oder Platin-Iridium (auch Kilogramm-Prototyp)</string>
+    </Keys>
+    <Chronologie>1882</Chronologie>
+  </Heft>
+</ArrayOfHeft>

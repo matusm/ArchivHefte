@@ -20,7 +20,7 @@ namespace TXT2XML
 
         public string PrettyString => FormatSignature();
 
-        public override string ToString() { return PrettyString; }
+        public override string ToString() => PrettyString;
 
         private string FormatSignature()
         {
@@ -75,6 +75,5 @@ namespace TXT2XML
                 return $"[{rawString.Trim()}]";
             }
         }
-
     }
 }

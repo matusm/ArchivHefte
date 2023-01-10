@@ -17,9 +17,7 @@ namespace XML2LaTeX
         private bool preambleCreated = false;
         private HeftType serie = HeftType.Unknown;
 
-        public LatexSource()
-        {
-        }
+        public LatexSource() { }
 
         public void AddHeft(Heft heft)
         {
@@ -31,7 +29,7 @@ namespace XML2LaTeX
             // create Preamble
             if (!preambleCreated)
                 CreatePreamble();
-            // Nehme Heft in Index fehlender Hefte auf
+            // Nehme Heft im Index fehlender Hefte auf
             AddToIndexFehlend(heft);
             // Nehme Heft ins Chronologisch Verzeichnis auf
             chronoIndex.Add(heft);

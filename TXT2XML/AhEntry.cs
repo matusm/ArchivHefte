@@ -105,15 +105,9 @@ namespace TXT2XML
             }
         }
 
-        public override string ToString()
-        {
-            return $"AhEntity {ahSignatur.PrettyString}";
-        }
+        public override string ToString() => $"AhEntity {ahSignatur.PrettyString}";
 
-        private string StripKey(string line)
-        {
-            return line.Substring(7);
-        }
+        private string StripKey(string line) => line.Substring(7);
 
     }
 }
